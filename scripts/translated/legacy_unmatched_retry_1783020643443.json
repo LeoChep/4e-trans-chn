@@ -1,0 +1,44 @@
+{
+  "Jarlaxle Baenre": {
+    "name": "贾拉索·班瑞 Jarlaxle Baenre",
+    "description": "<table><tr><td><b>生命值</b> 392; <b>重伤</b> 196</td><td style=\"padding-left: 15px;\"><b>先攻</b> +21 | <b>行动点</b> 1 | <b>豁免</b> +2</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 39</td><td><b>Fort</b> 34</td><td><b>Ref</b> 38</td><td><b>Will</b> 35</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 8</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 16 (+13)<br><b>体质</b> 20 (+15)</td><td><b>敏捷</b> 28 (+19)<br><b>智力</b> 18 (+14)</td><td><b>感知</b> 17 (+13)<br><b>魅力</b> 23 (+16)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Abyssal, Elven<br><b>阵营</b> Evil</td></tr><tr><td></td><td style=\"padding-left:15px;\"><b>感官</b> 黑暗视觉<br><b>被动</b> Perception 23 | Insight 23</td></td></tr></table><p><b>装备</b> eye patch of discernment (+5 Insight and Perception), handy holding hat (acts as a handy haversack), cape of the mountebank  +4 , dagger  x4, rapier .</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Rapler&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs AC; 1d8+14 (1d8+20 against a bloodied target)(crit 5d6+22, or 5d6+27 against a bloodied target). &lt;/p&gt;]] (⚔) <b>细剑 Rapler</b> (standard, at-will) ✦ <b>Weapon</b></p><p>标准动作；+27 vs AC；1d8+14点伤害（对重伤目标1d8+20点伤害）（重击5d6+22，对重伤目标5d6+27）。 [[/roll 1d8+14#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Rapler&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs AC; 1d8+14 (1d8+20 against a bloodied target)(crit 5d6+22, or 5d6+27 against a bloodied target). &lt;/p&gt;]]</p><p>[[/roll 1d8+20#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Rapler&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs AC; 1d8+14 (1d8+20 against a bloodied target)(crit 5d6+22, or 5d6+27 against a bloodied target). &lt;/p&gt;]]</p><p>[[/roll 5d6+22#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Rapler&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs AC; 1d8+14 (1d8+20 against a bloodied target)(crit 5d6+22, or 5d6+27 against a bloodied target). &lt;/p&gt;]]</p><p>[[/roll 5d6+27#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Rapler&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs AC; 1d8+14 (1d8+20 against a bloodied target)(crit 5d6+22, or 5d6+27 against a bloodied target). &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Dagger&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+26 vs AC; 1d4+13 伤害. &lt;/p&gt;]]</p><p>[[/roll 1d4+13#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Dagger&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+26 vs AC; 1d4+13 伤害. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(➶) &lt;b&gt;Thrown Dagger&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 5/10; +26 vs AC; 1d4+13 伤害. &lt;/p&gt;]]</p><p>[[/roll 1d4+13#&lt;p style=\"background-color:green;color:white;\"&gt;(➶) &lt;b&gt;Thrown Dagger&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 5/10; +26 vs AC; 1d4+13 伤害. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Ambidextrous Fencer&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Jarlaxle makes one rapier attack and one dagger melee attack. If both attacks hit the same target, that target is dazed until the end of Jarlaxle\"s next turn.&lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Flashy Disarm&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs Reflex; 3d8+14 伤害, and the target drops one weapon it is holding. It lands in a square of Jarlaxle\"s choice up to 6 squares away. &lt;/p&gt;]]</p><p>[[/roll 3d8+14#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Flashy Disarm&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+27 vs Reflex; 3d8+14 伤害, and the target drops one weapon it is holding. It lands in a square of Jarlaxle\"s choice up to 6 squares away. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>次要动作</b></h4></td></tr><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Darkfire&lt;/b&gt; (minor, encounter) ✦ &lt;b&gt;Radiant&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 10; +24 vs Reflex; until the end of Jarlaxle\"s next turn, the target grants combat advantage to all attacks, and the target cannot benefit from invisibility or concealment. &lt;/p&gt;]] ➶ <b>黑暗之火 Darkfire</b> (minor, encounter) ✦ <b>Radiant</b></p><p>次要动作；远程 10；+24 vs Reflex；直至贾拉索下一回合结束，目标对所有攻击提供战斗优势，且目标无法受益于隐形或隐蔽。 [[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Cloud of Darkness&lt;/b&gt; (minor, encounter) &lt;/p&gt;&lt;p&gt;Close burst 1; this power creates a zone of darkness that remains in place until the end of Jarlaxle\"s next turn. The zone blocks line of sight for all creatures except Jarlaxle. Any 生物 entirely within the area (except Jarlaxle) is blinded.&lt;/p&gt;]]</p></tr></td><tr><td><h4><b>触发动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Cape of the Mountebank&lt;/b&gt; (immediate reaction, when hit by an attack, daily) ✦ &lt;b&gt;Teleportation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Jarlaxle teleports up to 5 squares, and until the end of his next turn, he gains combat advantage against the attacker. Jarlaxle takes half 伤害 from that attack.&lt;/p&gt;]] ⚔ <b>江湖骗子的斗篷 Cape of the Cape of the Mountebank</b> (immediate reaction, when hit by an attack, daily) ✦ <b>Teleportation</b></p><p>直觉反应；触发：被一次攻击命中时；贾拉索传送最多5格，且直至其下一回合结束，他对攻击者获得战斗优势。贾拉索对该次攻击只承受一半伤害。</p></tr></td><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Whirling Evasion&lt;/b&gt; (immediate interrupt, when hit by a melee attack; encounter) &lt;/p&gt;&lt;p&gt;Jarlaxle shifts up to 6 squares.&lt;/p&gt;]]  <b>旋转闪避 Whirling Whirling Evasion</b> (immediate interrupt, when hit by a melee attack; encounter) </p><p>直觉中断；触发：被一次近战攻击命中时；贾拉索移位最多6格。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Rapler": {
+        "name": "细剑 Rapler",
+        "description": "<p><b>细剑 Rapler</b></p><p>基本近战：武器·随意</p><p>标准动作；+27 vs AC；1d8+14点伤害（对重伤目标1d8+20点伤害）（重击5d6+22，对重伤目标5d6+27）。</p>"
+      },
+      "Dagger": {
+        "name": "匕首 Dagger",
+        "description": "<p><b>匕首 Dagger</b></p><p>基本近战：武器·随意</p><p>标准动作；+26 vs AC；1d4+13点伤害。</p>"
+      },
+      "Thrown Dagger": {
+        "name": "投掷匕首 Thrown Dagger",
+        "description": "<p><b>投掷匕首 Thrown Dagger</b></p><p>基本远程：武器·随意</p><p>标准动作；远程 5/10；+26 vs AC；1d4+13点伤害。</p>"
+      },
+      "Ambidextrous Fencer": {
+        "name": "双巧剑客 Ambidextrous Fencer",
+        "description": "<p><b>双巧剑客 Ambidextrous Fencer</b></p><p>黯蚀，武器·随意</p><p>标准动作；贾拉索进行一次细剑攻击和一次匕首近战攻击。若两次攻击命中同一目标，该目标晕眩至贾拉索下一回合结束。</p>"
+      },
+      "Flashy Disarm": {
+        "name": "花哨缴械 Flashy Disarm",
+        "description": "<p><b>花哨缴械 Flashy Disarm</b></p><p>武器·充能 5-6</p><p>标准动作；+27 vs Reflex；3d8+14点伤害，且目标掉落其手持的一件武器。该武器落在贾拉索选择的最远6格内的一个方格中。</p>"
+      },
+      "Darkfire": {
+        "name": "黑暗之火 Darkfire",
+        "description": "<p><b>黑暗之火 Darkfire</b></p><p>光耀·遭遇</p><p>次要动作；远程 10；+24 vs Reflex；直至贾拉索下一回合结束，目标对所有攻击提供战斗优势，且目标无法受益于隐形或隐蔽。</p>"
+      },
+      "Cloud of Darkness": {
+        "name": "黑暗之云 Cloud of Darkness",
+        "description": "<p><b>黑暗之云 Cloud of Darkness</b></p><p>遭遇</p><p>次要动作；近程爆发 1；此威能创造一片黑暗区域，持续至贾拉索下一回合结束。该区域阻挡除贾拉索外所有生物的视线。完全处于区域内的任何生物（除贾拉索外）陷入目盲。</p>"
+      },
+      "Cape of the Mountebank": {
+        "name": "江湖骗子的斗篷 Cape of the Mountebank",
+        "description": "<p><b>江湖骗子的斗篷 Cape of the Mountebank</b></p><p>传送·每日</p><p>直觉反应；触发：被一次攻击命中时；贾拉索传送最多5格，且直至其下一回合结束，他对攻击者获得战斗优势。贾拉索对该次攻击只承受一半伤害。</p>"
+      },
+      "Whirling Evasion": {
+        "name": "旋转闪避 Whirling Evasion",
+        "description": "<p><b>旋转闪避 Whirling Evasion</b></p><p>遭遇</p><p>直觉中断；触发：被一次近战攻击命中时；贾拉索移位最多6格。</p>"
+      }
+    }
+  }
+}

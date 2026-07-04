@@ -1,0 +1,39 @@
+{
+  "label": "神祇 (Deities)",
+  "entries": {
+    "Earth Domain": {
+      "name": "大地领域 Earth Domain",
+      "source": "龙杂志"
+    },
+    "Storm Domain": {
+      "name": "风暴领域 Storm Domain"
+    },
+    "Corellon Domain": {
+      "name": "科瑞隆领域 Corellon Domain"
+    },
+    "Oghma Domain": {
+      "name": "欧格玛领域 Oghma Domain"
+    },
+    "Selûne Domain": {
+      "name": "塞伦涅领域 Selûne Domain"
+    },
+    "Death Domain": {
+      "name": "死亡领域 Death Domain",
+      "source": "暗影之厅"
+    },
+    "Sun Domain": {
+      "name": "太阳领域 Sun Domain"
+    },
+    "Torm Domain": {
+      "name": "托姆领域 Torm Domain"
+    },
+    "Domination Domain": {
+      "name": "支配领域 Domination Domain",
+      "source": "龙杂志"
+    }
+  },
+  "mapping": {
+    "source": "system.powersourceName",
+    "chatFlavor": "system.description.chat"
+  }
+}

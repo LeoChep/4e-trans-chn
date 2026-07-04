@@ -1,0 +1,67 @@
+{
+  "Turakbar Orc Marauder": {
+    "source": "legacy",
+    "error": "Key mismatch: Marauder's Onslaught",
+    "timestamp": "2026-07-02T19:32:34.696Z"
+  },
+  "Wererat": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:34.899Z"
+  },
+  "Tolvul, Mind Flayer Inquisitor": {
+    "source": "legacy",
+    "error": "Key mismatch: Thrull Bodyguard",
+    "timestamp": "2026-07-02T19:32:35.280Z"
+  },
+  "Skycoach Pilot": {
+    "source": "legacy",
+    "error": "Key mismatch: Basic Attack, Special Attack",
+    "timestamp": "2026-07-02T19:32:33.409Z"
+  },
+  "Frenzied Werewolf (H3)": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:35.740Z"
+  },
+  "Fzoul Chembryl": {
+    "source": "legacy",
+    "error": "Key mismatch: Scepter of the Chosen Tyrant (Ranged)",
+    "timestamp": "2026-07-02T19:32:40.809Z"
+  },
+  "Werewolf": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:38.345Z"
+  },
+  "Anchor Troll": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:39.789Z"
+  },
+  "War Troll": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:40.020Z"
+  },
+  "Disfigured Vampire": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:39.493Z"
+  },
+  "Count Strahd von Zarovich": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:46.424Z"
+  },
+  "Cave Troll Mangler": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:44.488Z"
+  },
+  "Bloodwind": {
+    "source": "legacy",
+    "error": "Key mismatch: Regeneration",
+    "timestamp": "2026-07-02T19:32:46.898Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "4e-trans",
+    "title": "DnD 4e Compendium Translation (中文)",
+    "description": "基于 Babele 的 D&D 4e 合集包中文翻译模组。翻译数据来源于 4e TiddlyWiki。",
+    "authors": [
+        {
+            "name": "4e Chinese Translation Community",
+            "flags": {}
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+    },
+    "relationships": {
+        "requires": [
+            {
+                "id": "babele",
+                "type": "module",
+                "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+                "compatibility": {
+                    "minimum": "2.9.1"
+                }
+            }
+        ],
+        "systems": [
+            {
+                "id": "dnd4e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "0.7.11"
+                }
+            }
+        ]
+    },
+    "esmodules": [
+        "babele.js"
+    ],
+    "languages": [
+        {
+            "lang": "cn",
+            "name": "中文",
+            "path": "lang/cn.json"
+        }
+    ],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}

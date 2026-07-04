@@ -1,0 +1,400 @@
+{
+  "Turakbar Orc Marauder": {
+    "name": "图拉克巴尔兽人掠夺者 Turakbar Orc Marauder",
+    "description": "<table><tr><td><b>生命值</b> 48; <b>重伤</b> 24</td><td style=\"padding-left: 15px;\"><b>先攻</b> +5</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 17</td><td><b>Fort</b> 16</td><td><b>Ref</b> 15</td><td><b>Will</b> 12</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6 (8 while charging)</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 17 (+4)<br><b>体质</b> 16 (+4)</td><td><b>敏捷</b> 15 (+3)<br><b>智力</b> 9 (0)</td><td><b>感知</b> 13 (+2)<br><b>魅力</b> 8 (0)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common, Goblin<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Endurance +9, Intimidate +5, Stealth +8</td><td style=\"padding-left:15px;\"><b>感官</b> 昏暗视觉<br><b>被动</b> Perception 12 | Insight 12</td></td></tr></table><p><b>装备</b> greataxe , handaxe  x2, leather armor .</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greataxe&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15). &lt;/p&gt;]] (⚔) <b>巨斧 Greataxe</b> (standard, at-will) ✦ <b>Weapon</b></p><p>+8 vs AC; 1d12 + 3 伤害（重击 1d12 + 15）。 [[/roll 1d12 + 3#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greataxe&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15). &lt;/p&gt;]]</p><p>[[/roll 1d12 + 15#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greataxe&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15). &lt;/p&gt;]]</p></tr></td><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Handaxe&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Ranged 5/10; +7 vs AC; 1d6 + 3 伤害. &lt;/p&gt;]] ➶ <b>手斧 Handaxe</b> (standard, at-will) </p><p>射程 5/10; +7 vs AC; 1d6 + 3 伤害。 [[/roll 1d6 + 3#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Handaxe&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Ranged 5/10; +7 vs AC; 1d6 + 3 伤害. &lt;/p&gt;]]</p></tr></td><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Marauder\"s Onsluaght&lt;/b&gt; (standard; requires a greataxe, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15), and the target is pushed 1 square (2 squares on a charge). Special: When charging, the Turakbar orc marauder can use this power in place of a melee basic attack. &lt;/p&gt;]] ⚔ <b>Marauder\"s Onsluaght</b> (standard; requires a greataxe, at-will) ✦ <b>Weapon</b></p><p>[[/roll 1d20+8[ vs AC]#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Marauder\"s Onsluaght&lt;/b&gt; (standard; requires a greataxe, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;+8 vs AC&lt;/u&gt;; 1d12 + 3 伤害 (crit 1d12 + 15), and the target is pushed 1 square (2 squares on a charge). Special: When charging, the Turakbar orc marauder can use this power in place of a melee basic attack. &lt;/p&gt;]]; [[/roll 1d12 + 3#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Marauder\"s Onsluaght&lt;/b&gt; (standard; requires a greataxe, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15), and the target is pushed 1 square (2 squares on a charge). Special: When charging, the Turakbar orc marauder can use this power in place of a melee basic attack. &lt;/p&gt;]] <9.5>  伤害 (crit [[/roll 1d12 + 15#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Marauder\"s Onsluaght&lt;/b&gt; (standard; requires a greataxe, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15), and the target is pushed 1 square (2 squares on a charge). Special: When charging, the Turakbar orc marauder can use this power in place of a melee basic attack. &lt;/p&gt;]] <21.5> ), and the target is pushed 1 square (2 squares on a charge). Special: When charging, the Turakbar orc marauder can use this power in place of a melee basic attack. </p></tr></td><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Warrior\"s Surge&lt;/b&gt; (standard; usable only while bloodied, encounter) ✦ &lt;b&gt;Healing, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15), and the Turakbar orc marauder regains 12 hit points. &lt;/p&gt;]] ⚔ <b>Warrior\"s Surge</b> (standard; usable only while bloodied, encounter) ✦ <b>Healing, Weapon</b></p><p>[[/roll 1d20+8[ vs AC]#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Warrior\"s Surge&lt;/b&gt; (standard; usable only while bloodied, encounter) ✦ &lt;b&gt;Healing, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;+8 vs AC&lt;/u&gt;; 1d12 + 3 伤害 (crit 1d12 + 15), and the Turakbar orc marauder regains 12 hit points. &lt;/p&gt;]]; [[/roll 1d12 + 3#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Warrior\"s Surge&lt;/b&gt; (standard; usable only while bloodied, encounter) ✦ &lt;b&gt;Healing, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15), and the Turakbar orc marauder regains 12 hit points. &lt;/p&gt;]] <9.5>  伤害 (crit [[/roll 1d12 + 15#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Warrior\"s Surge&lt;/b&gt; (standard; usable only while bloodied, encounter) ✦ &lt;b&gt;Healing, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d12 + 3 伤害 (crit 1d12 + 15), and the Turakbar orc marauder regains 12 hit points. &lt;/p&gt;]] <21.5> ), and the Turakbar orc marauder regains 12 hit points. </p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Greataxe": {
+        "name": "巨斧 Greataxe",
+        "description": "<p><b>巨斧 Greataxe</b></p><p>基本近战：巨斧·随意</p><p>+8 vs AC; 1d12 + 3 伤害（重击 1d12 + 15）。</p>"
+      },
+      "Handaxe": {
+        "name": "手斧 Handaxe",
+        "description": "<p><b>手斧 Handaxe</b></p><p>远程：手斧·随意</p><p>射程 5/10; +7 vs AC; 1d6 + 3 伤害。</p>"
+      },
+      "Marauder's Onsluaght": {
+        "name": "掠夺者猛攻 Marauder's Onslaught",
+        "description": "<p><b>掠夺者猛攻 Marauder's Onslaught</b></p><p>近战：武器·随意</p><p>+8 vs AC; 1d12 + 3 伤害（重击 1d12 + 15），且目标被推离 1 格（冲锋时 2 格）。<b>特殊：</b>冲锋时，图拉克巴尔兽人掠夺者可以用此威能代替近战基本攻击。</p>"
+      },
+      "Warrior's Surge": {
+        "name": "战士激涌 Warrior's Surge",
+        "description": "<p><b>战士激涌 Warrior's Surge</b></p><p>近战：武器·遭遇·医疗</p><p>+8 vs AC; 1d12 + 3 伤害（重击 1d12 + 15），且图拉克巴尔兽人掠夺者恢复 12 点生命值。</p>"
+      }
+    }
+  },
+  "Wererat": {
+    "name": "鼠化人 Wererat",
+    "description": "<table><tr><td><b>生命值</b> 48; <b>重伤</b> 24<br><b>再生 5 Regeneration Regeneration</b> 5 (if the wererat takes 伤害 from a silver weapon, its regeneration doesn’t function on its next turn)<hr><b>免疫</b> filth fever </td><td style=\"padding-left: 15px;\"><b>先攻</b> +7</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 17</td><td><b>Fort</b> 15</td><td><b>Ref</b> 16</td><td><b>Will</b> 13</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6, 攀爬 4 (not in human form)</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 10 (+1)<br><b>体质</b> 16 (+4)</td><td><b>敏捷</b> 18 (+5)<br><b>智力</b> 10 (+1)</td><td><b>感知</b> 12 (+2)<br><b>魅力</b> 11 (+1)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Bluff +6, Stealth +10, Streetwise +6, Thievery +10</td><td style=\"padding-left:15px;\"><b>感官</b> 昏暗视觉<br><b>被动</b> Perception 12 | Insight 12</td></td></tr></table><p><b>装备</b> cloak, short sword .</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Short Sword&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d6+4 伤害. &lt;/p&gt;]] (⚔) <b>短剑 Short Short Sword</b> (standard, at-will) ✦ <b>Weapon</b></p><p><b>随意</b><b> ✦ </b><b>武器</b> [[/roll 1d6+4#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Short Sword&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d6+4 伤害. &lt;/p&gt;]]</p><p><b>标准动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Disease&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d4+2 伤害, and the target takes ongoing 2 伤害 （豁免终止） and contracts filth fever. &lt;/p&gt;]]</p><p>攻击：+8 vs AC；伤害：1d6+4。 [[/roll 1d4+2#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Disease&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+8 vs AC; 1d4+2 伤害, and the target takes ongoing 2 伤害 （豁免终止） and contracts filth fever. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>次要动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Change Shape&lt;/b&gt; (minor; at-will) ✦ &lt;b&gt;Polymorph&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A wererat can alter its physical form to appear as a dire rat or a unique human. It loses its bite attack in human form.&lt;/p&gt;]]  <b>变形 Change Change Shape</b> (minor; at-will) ✦ <b>Polymorph</b></p><p><b>次要动作</b></p><p>鼠化人可以改变其物理形态，变为一只凶暴鼠或一个独特的人类。在人类形态下，它失去噬咬攻击。</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Combat Advantage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The wererat deals an extra 1d6 伤害 on melee attacks against any target it has combat advantage against.&lt;/p&gt;]]  <b>战斗优势 Combat Combat Advantage</b></p><p>鼠化人对具有战斗优势的目标进行近战攻击时，额外造成1d6点伤害。 [[/roll 1d6 #&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Combat Advantage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The wererat deals an extra 1d6 伤害 on melee attacks against any target it has combat advantage against.&lt;/p&gt;]]</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration": {
+        "name": "再生 5 Regeneration 5",
+        "description": "<p><b>再生 5 Regeneration 5</b></p><p>特性</p><p>如果鼠化人受到银制武器的伤害，其再生能力在下一回合不会生效。</p>"
+      },
+      "Short Sword": {
+        "name": "短剑 Short Sword",
+        "description": "<p><b>短剑 Short Sword</b></p><p>基本攻击</p><p><b>随意</b><b> ✦ </b><b>武器</b></p><p><b>标准动作</b></p><p>攻击：+8 vs AC；伤害：1d6+4。</p>"
+      },
+      "Bite": {
+        "name": "噬咬 Bite",
+        "description": "<p><b>噬咬 Bite</b></p><p>基本攻击</p><p><b>随意</b><b> ✦ </b><b>疾病</b></p><p><b>标准动作</b></p><p>攻击：+8 vs AC；伤害：1d4+2，并且目标受到2点持续伤害（豁免终止）并感染污秽热症。</p>"
+      },
+      "Change Shape": {
+        "name": "变形 Change Shape",
+        "description": "<p><b>变形 Change Shape</b></p><p><b>随意</b><b> ✦ </b><b>变形</b></p><p><b>次要动作</b></p><p>鼠化人可以改变其物理形态，变为一只凶暴鼠或一个独特的人类。在人类形态下，它失去噬咬攻击。</p>"
+      },
+      "Combat Advantage": {
+        "name": "战斗优势 Combat Advantage",
+        "description": "<p><b>战斗优势 Combat Advantage</b></p><p>特性</p><p>鼠化人对具有战斗优势的目标进行近战攻击时，额外造成1d6点伤害。</p>"
+      }
+    }
+  },
+  "Tolvul, Mind Flayer Inquisitor": {
+    "name": "托尔武尔，灵吸怪审判官 Tolvul, Mind Flayer Inquisitor",
+    "description": "<table><tr><td><b>生命值</b> 83; <b>重伤</b> 41</td><td style=\"padding-left: 15px;\"><b>先攻</b> +14</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 24</td><td><b>Fort</b> 20</td><td><b>Ref</b> 22</td><td><b>Will</b> 23</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 7</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 13 (+6)<br><b>体质</b> 17 (+8)</td><td><b>敏捷</b> 20 (+10)<br><b>智力</b> 17 (+8)</td><td><b>感知</b> 14 (+7)<br><b>魅力</b> 23 (+11)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Deep Speech, telepathy 10<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Bluff +16, Diplomacy +16, Dungeoneering +12, Stealth +15</td><td style=\"padding-left:15px;\"><b>感官</b> <br><b>被动</b> Perception 17 | Insight 17</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Tentacles&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;+15 vs AC; 2d6+3 伤害, and the target is grabbed (until escape). &lt;/p&gt;]] (⚔) <b>触手 Tentacles</b> (standard, at-will) </p><p><b>随意</b> [[/roll 2d6+3#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Tentacles&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;+15 vs AC; 2d6+3 伤害, and the target is grabbed (until escape). &lt;/p&gt;]]</p><p><b>标准动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Bore into Brain&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Targets a 生物 grabbed by Tolvul; +13 vs Fortitude; 3d6 + 3 伤害, and the target is dominated （豁免终止）. If this power reduces the target to 0 hit points or fewer, the 生物 ignores the dying condition until it saves against the dominated effect. &lt;/p&gt;]]</p><p>+15 vs AC; 2d6+3伤害，且目标被攫抓（直至逃脱）。 [[/roll 3d6 + 3#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Bore into Brain&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Targets a 生物 grabbed by Tolvul; +13 vs Fortitude; 3d6 + 3 伤害, and the target is dominated （豁免终止）. If this power reduces the target to 0 hit points or fewer, the 生物 ignores the dying condition until it saves against the dominated effect. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Mind Blast&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Psychic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close blast 5; does not target mind flayers or creatures dominated by mind flayers; +13 vs Will; 2d8+3 psychic 伤害, and the target is dazed （豁免终止）. &lt;/p&gt;]]</p><p>[[/roll 2d8+3#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Mind Blast&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Psychic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close blast 5; does not target mind flayers or creatures dominated by mind flayers; +13 vs Will; 2d8+3 psychic 伤害, and the target is dazed （豁免终止）. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Thrall Bodyguard&lt;/b&gt;&lt;/p&gt;&lt;p&gt;While a 生物 dominated by Tolvul is adjacent to Tolvul, he can use an immediate interrupt when targeted by a melee or ranged attack to redirect the attack to the dominated 生物.&lt;/p&gt;]]  <b>Thrall Bodyguard</b></p><p>While a 生物 dominated by Tolvul is adjacent to Tolvul, he can use an immediate interrupt when targeted by a melee or ranged attack to redirect the attack to the dominated 生物.</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Tentacles": {
+        "name": "触手 Tentacles",
+        "description": "<p><b>触手 Tentacles</b></p><p>基本攻击</p><p><b>随意</b></p><p><b>标准动作</b></p><p>+15 vs AC; 2d6+3伤害，且目标被攫抓（直至逃脱）。</p>"
+      },
+      "Bore into Brain": {
+        "name": "钻入大脑 Bore into Brain",
+        "description": "<p><b>钻入大脑 Bore into Brain</b></p><p><b>随意</b></p><p><b>标准动作</b></p><p>目标为被托尔武尔攫抓的生物</p><p>+13 vs 强韧; 3d6+3伤害，且目标被支配（豁免终止）。若此威能将目标生命值降至0或更低，该生物在对抗支配效果的豁免成功前忽略濒死状态。</p>"
+      },
+      "Mind Blast": {
+        "name": "心灵爆震 Mind Blast",
+        "description": "<p><b>心灵爆震 Mind Blast</b></p><p><b>充能</b> 5-6 <b>✦</b> <b>心灵</b></p><p><b>标准动作</b></p><p><b>近程</b> 爆发5</p><p>不指定灵吸怪或被灵吸怪支配的生物; +13 vs 意志; 2d8+3心灵伤害，且目标晕眩（豁免终止）。</p>"
+      },
+      "Thrall Bodyguard": {
+        "name": "奴仆保镖 Thrull Bodyguard",
+        "description": "<p><b>奴仆保镖 Thrull Bodyguard</b></p><p>当被托尔武尔支配的生物邻接托尔武尔时，若托尔武尔成为近战或远程攻击的目标，他可以用一个即时中断将该攻击重定向至该被支配的生物。</p>"
+      }
+    }
+  },
+  "Skycoach Pilot": {
+    "name": "天舟驾驶员 Skycoach Pilot",
+    "description": "<table><tr><td><b>生命值</b> 1; a missed attack never damages a minion.</td><td style=\"padding-left: 15px;\"><b>先攻</b> +1</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 15</td><td><b>Fort</b> 13</td><td><b>Ref</b> 11</td><td><b>Will</b> 11</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 14 (+3)<br><b>体质</b> 12 (+2)</td><td><b>敏捷</b> 10 (+1)<br><b>智力</b> 9 (0)</td><td><b>感知</b> 10 (+1)<br><b>魅力</b> 11 (+1)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common<br><b>阵营</b> Unaligned</td></tr><tr><td></td><td style=\"padding-left:15px;\"><b>感官</b> <br><b>被动</b> Perception 11 | Insight 11</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Basic Attack template&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;&lt;/p&gt;]] ⚔ <b>Basic Attack template</b> (standard, at-will) </p><p></p></tr></td><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Special Attack template&lt;/b&gt; (standard, encounter) &lt;/p&gt;&lt;p&gt;&lt;/p&gt;]] ⚔ <b>Special Attack template</b> (standard, encounter) </p><p></p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Basic Attack template": {
+        "name": "基本攻击 Basic Attack",
+        "description": "<p><b>基本攻击 Basic Attack</b></p><p>随意 · 标准动作</p><p>近战或远程攻击；命中造成1d8点伤害。</p>"
+      },
+      "Special Attack template": {
+        "name": "特殊攻击 Special Attack",
+        "description": "<p><b>特殊攻击 Special Attack</b></p><p>遭遇 · 标准动作</p><p>近程爆发3；目标受到2d6点伤害，并被晕眩（豁免终止）。</p>"
+      }
+    }
+  },
+  "Frenzied Werewolf (H3)": {
+    "name": "狂乱狼人 Frenzied Werewolf",
+    "description": "<table><tr><td><b>生命值</b> 450; <b>重伤</b> 225<br><b>再生 Regeneration</b> 5 (if the werewolf takes 伤害 from a silver weapon, its regeneration doesn\"t function on its next turn)<hr><b>免疫</b> moon frenzy </td><td style=\"padding-left: 15px;\"><b>先攻</b> +7 | <b>行动点</b> 2</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 22</td><td><b>Fort</b> 24</td><td><b>Ref</b> 22</td><td><b>Will</b> 21</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6 (8 in wolf form)</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 21 (+9)<br><b>体质</b> 18 (+8)</td><td><b>敏捷</b> 16 (+7)<br><b>智力</b> 10 (+4)</td><td><b>感知</b> 14 (+6)<br><b>魅力</b> 11 (+4)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Bluff +9, Insight +11, Intimidate +9, Nature +11</td><td style=\"padding-left:15px;\"><b>感官</b> 昏暗视觉<br><b>被动</b> Perception 16 | Insight 21</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claws&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;2 targets; +12 vs AC; 2d6+5 伤害. &lt;/p&gt;]] (⚔) <b>利爪 Claws</b> (standard, at-will) </p><p><b>随意</b> [[/roll 2d6+5#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claws&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;2 targets; +12 vs AC; 2d6+5 伤害. &lt;/p&gt;]]</p><p><b>标准动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Disease&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+12 vs AC; 1d6+5 伤害, and the target takes ongoing 5 伤害 （豁免终止） and contracts moon frenzy. &lt;/p&gt;]]</p><p>2个目标；+12 vs AC；2d6+5伤害。 [[/roll 1d6+5#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Disease&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+12 vs AC; 1d6+5 伤害, and the target takes ongoing 5 伤害 （豁免终止） and contracts moon frenzy. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Blood Rage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The werewolf’s melee attacks deal 4 extra 伤害 against a bloodied target.&lt;/p&gt;]]  <b>血怒 Blood Blood Rage</b></p><p>狼人对重伤目标的近战攻击造成额外4点伤害。 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Murderous Frenzy&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The werewolf gains 1 action point if it reduces a foe to 0 hit points.&lt;/p&gt;]]</p></tr></td><tr><td><h4><b>触发动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Savage Rebuke&lt;/b&gt; (immediate reaction, when hit by a melee attack; at-will) &lt;/p&gt;&lt;p&gt;The werewolf makes a bite attack.&lt;/p&gt;]]  <b>凶暴斥责 Savage Savage Rebuke</b> (immediate reaction, when hit by a melee attack; at-will) </p><p><b>即时反应</b></p><p><b>触发：</b>被近战攻击命中时</p><p>狼人进行一次噬咬攻击。</p></tr></td><tr><td><h4><b>次要动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Change Shape&lt;/b&gt; (minor; at-will) ✦ &lt;b&gt;Polymorph&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A werewolf can alter its physical form to appear as a gray wolf or a unique human. It cannot use its bite attack in human form and cannot make claw attacks in wolf form.&lt;/p&gt;]]  <b>变形 Change Change Shape</b> (minor; at-will) ✦ <b>Polymorph</b></p><p><b>次要动作</b></p><p>狼人可以改变其物理形态，变为一只灰狼或一个独特的人类。在人类形态下不能使用噬咬攻击，在狼形态下不能使用利爪攻击。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 5": {
+        "name": "再生5 Regeneration",
+        "description": "<p><b>再生 Regeneration</b></p><p>特性</p><p>如果狼人受到银制武器的伤害，其再生能力在下一回合不会生效。</p>"
+      },
+      "Claws": {
+        "name": "利爪 Claws",
+        "description": "<p><b>利爪 Claws</b></p><p>基本攻击</p><p><b>随意</b></p><p><b>标准动作</b></p><p>2个目标；+12 vs AC；2d6+5伤害。</p>"
+      },
+      "Bite": {
+        "name": "噬咬 Bite",
+        "description": "<p><b>噬咬 Bite</b></p><p>基本攻击</p><p><b>随意</b><b> ✦ </b><b>疾病</b></p><p><b>标准动作</b></p><p>+12 vs AC；1d6+5伤害，并且目标受到5点持续伤害（豁免终止）并感染月狂症。</p>"
+      },
+      "Blood Rage": {
+        "name": "血怒 Blood Rage",
+        "description": "<p><b>血怒 Blood Rage</b></p><p>特性</p><p>狼人对重伤目标的近战攻击造成额外4点伤害。</p>"
+      },
+      "Murderous Frenzy": {
+        "name": "杀戮狂乱 Murderous Frenzy",
+        "description": "<p><b>杀戮狂乱 Murderous Frenzy</b></p><p>特性</p><p>如果狼人将一个敌人生命值降至0，它获得1点动作点。</p>"
+      },
+      "Savage Rebuke": {
+        "name": "凶暴斥责 Savage Rebuke",
+        "description": "<p><b>凶暴斥责 Savage Rebuke</b></p><p><b>随意</b></p><p><b>即时反应</b></p><p><b>触发：</b>被近战攻击命中时</p><p>狼人进行一次噬咬攻击。</p>"
+      },
+      "Change Shape": {
+        "name": "变形 Change Shape",
+        "description": "<p><b>变形 Change Shape</b></p><p><b>随意</b><b> ✦ </b><b>变形</b></p><p><b>次要动作</b></p><p>狼人可以改变其物理形态，变为一只灰狼或一个独特的人类。在人类形态下不能使用噬咬攻击，在狼形态下不能使用利爪攻击。</p>"
+      }
+    }
+  },
+  "Fzoul Chembryl": {
+    "name": "Fzoul Chembryl 弗祖尔·肯布里尔",
+    "description": "<table><tr><td><b>生命值</b> 500; <b>重伤</b> 250<hr><b>抗性</b> 15 necrotic, 15 poison </td><td style=\"padding-left: 15px;\"><b>先攻</b> +21 | <b>行动点</b> 1 | <b>豁免</b> +2 (+5 against fear and charm effects, and against effects that immobilize, restrain or slow)</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 44</td><td><b>Fort</b> 43</td><td><b>Ref</b> 42</td><td><b>Will</b> 46</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6, 飞行 8</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 26 (+22)<br><b>体质</b> 21 (+19)</td><td><b>敏捷</b> 25 (+21)<br><b>智力</b> 18 (+18)</td><td><b>感知</b> 28 (+23)<br><b>魅力</b> 30 (+24)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> All<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Arcana +23, Bluff +29, Diplomacy +29, History +23, Insight +28, Intimidate +29, Religion +23</td><td style=\"padding-left:15px;\"><b>感官</b> <br><b>被动</b> Perception 33 | Insight 38</td></td></tr></table><p><b>装备</b> scepter of the chosen tyrant  +6 .</p><p>[[/roll 0#&lt;b&gt;Tyrant\"s Eye&lt;/b&gt; (Psychic) aura 5; an enemy that starts its turn in the aura takes 5 psychic 伤害.]] <b>Tyrant\"s Eye</b> (Psychic) aura 5; an enemy that starts its turn in the aura takes 5 psychic 伤害.</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Scepter of the Chosen Tyrant&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Psychic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+33 vs AC; 1d10+9 伤害 (crit 6d10+19), and the target takes ongoing 10 psychic 伤害 （豁免终止）. Fzoul can\"t be disarmed of this weapon. &lt;/p&gt;&lt;p&gt;(➶) &lt;b&gt;Scepter of the Chosen Tyrant&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Force, Psychic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 5; +32 vs AC; 1d10+9 force 伤害 (crit 6d10+19), and the target is pushed 1 square and takes ongoing 10 psychic 伤害 （豁免终止）. &lt;/p&gt;]] (⚔) <b>受选暴君权杖 Scepter of the Chosen Scepter of the Chosen Tyrant</b> (standard, at-will) ✦ <b>Psychic, Weapon</b></p><p>[[/roll 1d10+9#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Scepter of the Chosen Tyrant&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Psychic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+33 vs AC; 1d10+9 伤害 (crit 6d10+19), and the target takes ongoing 10 psychic 伤害 （豁免终止）. Fzoul can\"t be disarmed of this weapon. &lt;/p&gt;]]</p><p>[[/roll 6d10+19#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Scepter of the Chosen Tyrant&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Psychic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+33 vs AC; 1d10+9 伤害 (crit 6d10+19), and the target takes ongoing 10 psychic 伤害 （豁免终止）. Fzoul can\"t be disarmed of this weapon. &lt;/p&gt;]]</p><p>[[/roll 1d10+9#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Scepter of the Chosen Tyrant&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Psychic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 5; +32 vs AC; 1d10+9 force 伤害 (crit 6d10+19), and the target is pushed 1 square and takes ongoing 10 psychic 伤害 （豁免终止）. &lt;/p&gt;]]</p><p>[[/roll 6d10+19#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Scepter of the Chosen Tyrant&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Psychic, Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 5; +32 vs AC; 1d10+9 force 伤害 (crit 6d10+19), and the target is pushed 1 square and takes ongoing 10 psychic 伤害 （豁免终止）. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Excoriating Decree&lt;/b&gt; (standard, encounter) ✦ &lt;b&gt;Thunder&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 10; targets enemies; +33 vs Fortitude; 2d6+9 thunder 伤害, and the target is dazed until the end of Fzoul\"s next turn. &lt;/p&gt;]]</p><p>[[/roll 2d6+9#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Excoriating Decree&lt;/b&gt; (standard, encounter) ✦ &lt;b&gt;Thunder&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 10; targets enemies; +33 vs Fortitude; 2d6+9 thunder 伤害, and the target is dazed until the end of Fzoul\"s next turn. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Ruling Command&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Charm, Psychic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20; +34 vs Will; 2d6+10 psychic 伤害, and the target takes ongoing 5 psychic 伤害 and is dominated (save ends both, with a -2 penalty to the saving throw). Fzoul can dominate only one 生物 at a time. &lt;/p&gt;]]</p><p>[[/roll 2d6+10#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Ruling Command&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Charm, Psychic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20; +34 vs Will; 2d6+10 psychic 伤害, and the target takes ongoing 5 psychic 伤害 and is dominated (save ends both, with a -2 penalty to the saving throw). Fzoul can dominate only one 生物 at a time. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Restore the Faithful&lt;/b&gt; (standard, encounter) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 10; Fzoul and each of his allies spends a healing surge and regains one-quarter of maximum hit points (125 hp for Fzoul).&lt;/p&gt;]]</p></tr></td><tr><td><h4><b>次要动作</b></h4></td></tr><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Judging Strike&lt;/b&gt; (minor; recharge ⚃⚄⚅) &lt;/p&gt;&lt;p&gt;If Fzoul hits with his next Scepter of the Chosen Tyrant attack (melee or ranged), the attack is treated as a critical hit.&lt;/p&gt;]]  <b>审判打击 Judging Judging Strike</b> (minor; recharge ⚃⚄⚅) </p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Dark Majesty&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Until bloodied, Fzoul gains a +4 bonus to all defenses against opportunity attacks.&lt;/p&gt;]]  <b>黑暗威严 Dark Dark Majesty</b></p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Tyrant's Eye": {
+        "name": "暴君之眼 Tyrant's Eye",
+        "description": "<p><b>暴君之眼 Tyrant's Eye</b></p><p><b>心灵</b></p><p><b>灵气</b> 5</p><p>在灵气内开始其回合的敌人受到5点心灵伤害。</p>"
+      },
+      "Scepter of the Chosen Tyrant": {
+        "name": "受选暴君权杖 Scepter of the Chosen Tyrant",
+        "description": "<p><b>受选暴君权杖 Scepter of the Chosen Tyrant</b></p><p><i>基本攻击</i></p><p class=\"power-basics\"><b>随意</b><b> ✦ </b><b>心灵, 武器</b></p><p class=\"power-basics\"><b>标准动作</b></p><p  class=\"power-basics\">+33 vs AC; 1d10+9伤害（重击6d10+19），且目标受到持续10点心灵伤害（豁免终止）。弗祖尔无法被解除此武器。</p>"
+      },
+      "Scepter of the Chosen Tyrant (Ranged)": {
+        "name": "受选暴君权杖（远程） Scepter of the Chosen Tyrant",
+        "description": "<p><b>受选暴君权杖（远程） Scepter of the Chosen Tyrant</b></p><p><i>基本攻击</i></p><p class=\"power-basics\"><b>随意</b><b> ✦ </b><b>力场, 心灵, 武器</b></p><p class=\"power-basics\"><b>标准动作</b></p><p><b>远程</b> 5</p><p  class=\"power-basics\">+32 vs AC; 1d10+9力场伤害（重击6d10+19），且目标被推离1格并受到持续10点心灵伤害（豁免终止）。</p>"
+      },
+      "Excoriating Decree": {
+        "name": "斥责敕令 Excoriating Decree",
+        "description": "<p><b>斥责敕令 Excoriating Decree</b></p><p class=\"power-basics\"><b>遭遇</b><b> ✦ </b><b>雷鸣</b></p><p class=\"power-basics\"><b>标准动作</b></p><p><b>近程</b> 爆发10</p><p>目标：敌人；+33 vs 强韧；2d6+9雷鸣伤害，且目标晕眩至弗祖尔下一回合结束。</p>"
+      },
+      "Ruling Command": {
+        "name": "统治命令 Ruling Command",
+        "description": "<p><b>统治命令 Ruling Command</b></p><p class=\"power-basics\"><b>充能</b> 5-6<b> ✦ </b><b>魅惑, 心灵</b></p><p class=\"power-basics\"><b>标准动作</b></p><p><b>远程</b> 20</p><p  class=\"power-basics\">+34 vs 意志；2d6+10心灵伤害，且目标受到持续5点心灵伤害并被支配（豁免两者，豁免检定承受-2减值）。弗祖尔一次只能支配一个生物。</p>"
+      },
+      "Restore the Faithful": {
+        "name": "恢复信徒 Restore the Faithful",
+        "description": "<p><b>恢复信徒 Restore the Faithful</b></p><p class=\"power-basics\"><b>遭遇</b><b> ✦ </b><b>医疗</b></p><p class=\"power-basics\"><b>标准动作</b></p><p><b>近程</b> 爆发10</p><p>弗祖尔和他的每个盟友花费一个医疗回复，并恢复最大生命值的四分之一（弗祖尔恢复125点生命值）。</p>"
+      },
+      "Judging Strike": {
+        "name": "审判打击 Judging Strike",
+        "description": "<p><b>审判打击 Judging Strike</b></p><p class=\"power-basics\"><b>充能</b> 4-6</p><p class=\"power-basics\"><b>次要动作</b></p><p>如果弗祖尔的下一次受选暴君权杖攻击（近战或远程）命中，则该攻击视为重击。</p>"
+      },
+      "Dark Majesty": {
+        "name": "黑暗威严 Dark Majesty",
+        "description": "<p><b>黑暗威严 Dark Majesty</b></p><p>在重伤之前，弗祖尔对抗借机攻击的所有防御获得+4加值。</p>"
+      }
+    }
+  },
+  "Werewolf": {
+    "name": "狼人 Werewolf",
+    "description": "<table><tr><td><b>生命值</b> 108; <b>重伤</b> 54<br><b>再生 Regeneration</b> 5 (if the werewolf takes 伤害 from a silver weapon, its regeneration doesn’t function on its next turn)<hr><b>免疫</b> moon frenzy </td><td style=\"padding-left: 15px;\"><b>先攻</b> +7</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 20</td><td><b>Fort</b> 20</td><td><b>Ref</b> 19</td><td><b>Will</b> 18</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6 (8 in wolf form)</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 19 (+8)<br><b>体质</b> 18 (+8)</td><td><b>敏捷</b> 16 (+7)<br><b>智力</b> 10 (+4)</td><td><b>感知</b> 14 (+6)<br><b>魅力</b> 11 (+4)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Bluff +9, Insight +11, Intimidate +9, Nature +11</td><td style=\"padding-left:15px;\"><b>感官</b> 昏暗视觉<br><b>被动</b> Perception 16 | Insight 21</td></td></tr></table><p><b>装备</b> greatclub , leather armor .</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greatclub&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+12 vs AC; 2d4+4 伤害. &lt;/p&gt;]] (⚔) <b>巨棒 Greatclub</b> (standard, at-will) ✦ <b>Weapon</b></p><p><b>随意</b><b> ✦ </b><b>武器</b> [[/roll 2d4+4#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greatclub&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+12 vs AC; 2d4+4 伤害. &lt;/p&gt;]]</p><p><b>标准动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Disease&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+12 vs AC; 1d6+4 伤害, and the target takes ongoing 5 伤害 （豁免终止） and contracts moon frenzy. &lt;/p&gt;]]</p><p>+12 vs AC；2d4+4伤害。 [[/roll 1d6+4#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Disease&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+12 vs AC; 1d6+4 伤害, and the target takes ongoing 5 伤害 （豁免终止） and contracts moon frenzy. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Blood Rage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The werewolf’s melee attacks deal 4 extra 伤害 against a bloodied target.&lt;/p&gt;]]  <b>血怒 Blood Blood Rage</b></p><p>狼人对重伤目标的近战攻击造成4点额外伤害。</p></tr></td><tr><td><h4><b>次要动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Change Shape&lt;/b&gt; (minor; at-will) ✦ &lt;b&gt;Polymorph&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A werewolf can alter its physical form to appear as a gray wolf or a unique human. It cannot use its bite attack in human form and cannot make greatclub attacks in wolf form.&lt;/p&gt;]]  <b>变形 Change Change Shape</b> (minor; at-will) ✦ <b>Polymorph</b></p><p><b>次要动作</b></p><p>狼人可以改变其物理形态，呈现为一只灰狼或一个独特的人类。它在人类形态下不能使用啮咬攻击，在狼形态下不能使用巨棒攻击。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 5": {
+        "name": "再生 5 Regeneration",
+        "description": "<p><b>再生 Regeneration</b></p><p>特性</p><p>如果狼人受到银制武器的伤害，其再生能力在下一回合不会生效。</p>"
+      },
+      "Greatclub": {
+        "name": "巨棒 Greatclub",
+        "description": "<p><b>巨棒 Greatclub</b></p><p>基本攻击</p><p><b>随意</b><b> ✦ </b><b>武器</b></p><p><b>标准动作</b></p><p>+12 vs AC；2d4+4伤害。</p>"
+      },
+      "Bite": {
+        "name": "啮咬 Bite",
+        "description": "<p><b>啮咬 Bite</b></p><p>基本攻击</p><p><b>随意</b><b> ✦ </b><b>疾病</b></p><p><b>标准动作</b></p><p>+12 vs AC；1d6+4伤害，并且目标受到5点持续伤害（豁免终止）并感染月狂症。</p>"
+      },
+      "Blood Rage": {
+        "name": "血怒 Blood Rage",
+        "description": "<p><b>血怒 Blood Rage</b></p><p>特性</p><p>狼人对重伤目标的近战攻击造成4点额外伤害。</p>"
+      },
+      "Change Shape": {
+        "name": "变形 Change Shape",
+        "description": "<p><b>变形 Change Shape</b></p><p><b>随意</b><b> ✦ </b><b>变形</b></p><p><b>次要动作</b></p><p>狼人可以改变其物理形态，呈现为一只灰狼或一个独特的人类。它在人类形态下不能使用啮咬攻击，在狼形态下不能使用巨棒攻击。</p>"
+      }
+    }
+  },
+  "Anchor Troll": {
+    "name": "锚爪巨魔 Anchor Troll",
+    "description": "<table><tr><td><b>生命值</b> 139; <b>重伤</b> 69<br><b>再生 Regeneration</b> 10 (if the troll takes acid or fire 伤害, regeneration does not function until the end of its next turn)</td><td style=\"padding-left: 15px;\"><b>先攻</b> +12</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 28</td><td><b>Fort</b> 27</td><td><b>Ref</b> 27</td><td><b>Will</b> 23</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 7</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 23 (+13)<br><b>体质</b> 19 (+11)</td><td><b>敏捷</b> 20 (+12)<br><b>智力</b> 5 (+4)</td><td><b>感知</b> 14 (+9)<br><b>魅力</b> 12 (+8)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Giant<br><b>阵营</b> Chaotic evil</td></tr><tr><td><b>技能</b> Athletics +18, Endurance +16</td><td style=\"padding-left:15px;\"><b>感官</b> <br><b>被动</b> Perception 19 | Insight 19</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; +16 vs AC; 2d8+5 伤害. &lt;/p&gt;]] (⚔) <b>爪击 Claw</b> (standard, at-will) </p><p><b>随意</b> [[/roll 2d8+5#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; +16 vs AC; 2d8+5 伤害. &lt;/p&gt;]]</p><p><b>标准动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Wrapping Chain&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Reach 5; +18 vs Reflex; 1d6+6 伤害, and the target is restrained （豁免终止）. The restrained effect ends if the troll and the target move more than 5 squares apart. &lt;/p&gt;]]</p><p><b>触及</b> 2 [[/roll 1d6+6#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Wrapping Chain&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Reach 5; +18 vs Reflex; 1d6+6 伤害, and the target is restrained （豁免终止）. The restrained effect ends if the troll and the target move more than 5 squares apart. &lt;/p&gt;]]</p><p>+16 vs AC；2d8+5伤害。 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Chain Slam&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This attack can be used only against a 生物 restrained by wrapping chain. The troll swings the chain that has snared its target, and slams the 生物 against the ground. Move the target to any square within 5 of the troll and make an attack; +18 vs Fortitude; 4d8+6 伤害, and the target is knocked prone. Effect: The target is no longer restrained. &lt;/p&gt;]]</p><p>[[/roll 4d8+6#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Chain Slam&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This attack can be used only against a 生物 restrained by wrapping chain. The troll swings the chain that has snared its target, and slams the 生物 against the ground. Move the target to any square within 5 of the troll and make an attack; +18 vs Fortitude; 4d8+6 伤害, and the target is knocked prone. Effect: The target is no longer restrained. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Anchor Tornado&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 5; +19 vs AC; 3d8+6 伤害, and the target is knocked prone. &lt;/p&gt;]]</p><p>[[/roll 3d8+6#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Anchor Tornado&lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 5; +19 vs AC; 3d8+6 伤害, and the target is knocked prone. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Troll Healing&lt;/b&gt;✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If the troll is reduced to 0 hit points by an attack that does not deal acid or fire 伤害, it rises on its next turn (as a move action) with 15 hit points.&lt;/p&gt;]]  <b>巨魔治愈 Troll Troll Healing</b>✦ <b>Healing</b></p><p>如果巨魔被不造成强酸或火焰伤害的攻击降至0生命值，它将在下一轮（以移动动作）以15点生命值重新站起。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 10": {
+        "name": "再生10 Regeneration",
+        "description": "<p><b>再生10 Regeneration</b></p><p>特性</p><p>如果巨魔受到强酸或火焰伤害，再生能力在其下一轮结束前无法生效。</p>"
+      },
+      "Claw": {
+        "name": "爪击 Claw",
+        "description": "<p><b>爪击 Claw</b></p><p>基本攻击</p><p><b>随意</b></p><p><b>标准动作</b></p><p><b>触及</b> 2</p><p>+16 vs AC；2d8+5伤害。</p>"
+      },
+      "Wrapping Chain": {
+        "name": "缠绕锁链 Wrapping Chain",
+        "description": "<p><b>缠绕锁链 Wrapping Chain</b></p><p><b>随意 ✦ 武器</b></p><p><b>标准动作</b></p><p><b>触及</b> 5</p><p>+18 vs Reflex；1d6+6伤害，目标被束缚（豁免终止）。如果巨魔和目标之间的距离超过5格，束缚效果结束。</p>"
+      },
+      "Chain Slam": {
+        "name": "锁链猛摔 Chain Slam",
+        "description": "<p><b>锁链猛摔 Chain Slam</b></p><p><b>随意 ✦ 武器</b></p><p><b>标准动作</b></p><p>此攻击只能对受到缠绕锁链束缚的生物使用。巨魔挥动缠住目标的锁链，将其猛摔在地。将目标移动到巨魔周围5格内的任意方格，并进行攻击：+18 vs Fortitude；4d8+6伤害，目标倒地。<b>效果：</b>目标不再被束缚。</p>"
+      },
+      "Anchor Tornado": {
+        "name": "锚爪旋风 Anchor Tornado",
+        "description": "<p><b>锚爪旋风 Anchor Tornado</b></p><p><b>充能 5-6 ✦ 武器</b></p><p><b>标准动作</b></p><p><b>近程</b> 爆发 5</p><p>+19 vs AC；3d8+6伤害，目标倒地。</p>"
+      },
+      "Troll Healing": {
+        "name": "巨魔治愈 Troll Healing",
+        "description": "<p><b>巨魔治愈 Troll Healing</b></p><p>特性</p><p>如果巨魔被不造成强酸或火焰伤害的攻击降至0生命值，它将在下一轮（以移动动作）以15点生命值重新站起。</p>"
+      }
+    }
+  },
+  "War Troll": {
+    "name": "战争巨魔 War Troll",
+    "description": "<table><tr><td><b>生命值</b> 110; <b>重伤</b> 55<br><b>再生 Regeneration</b> 10 (if the war troll takes acid or fire 伤害, regeneration does not function until the end of its next turn)</td><td style=\"padding-left: 15px;\"><b>先攻</b> +12</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 30</td><td><b>Fort</b> 29</td><td><b>Ref</b> 25</td><td><b>Will</b> 25</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 7</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 24 (+14)<br><b>体质</b> 20 (+12)</td><td><b>敏捷</b> 16 (+10)<br><b>智力</b> 10 (+7)</td><td><b>感知</b> 16 (+10)<br><b>魅力</b> 12 (+8)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Giant<br><b>阵营</b> Chaotic evil</td></tr><tr><td><b>技能</b> Athletics +17, Endurance +15</td><td style=\"padding-left:15px;\"><b>感官</b> <br><b>被动</b> Perception 20 | Insight 20</td></td></tr></table><p><b>装备</b> arrows (30) , greatsword , longbow , plate armor .</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greatsword&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Reach 2; +20 vs AC; 1d12+7 伤害, and the target is marked until the end of the war troll’s next turn. &lt;/p&gt;]] (⚔) <b>巨剑 Greatsword</b> (standard, at-will) ✦ <b>Weapon</b></p><p>触及 2 [[/roll 1d12+7#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Greatsword&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Reach 2; +20 vs AC; 1d12+7 伤害, and the target is marked until the end of the war troll’s next turn. &lt;/p&gt;]]</p><p>+20 vs AC；1d12+7 伤害，并且目标被标记直到战争巨魔的下一回合结束。 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; +20 vs AC; 2d6+7 伤害. &lt;/p&gt;]]</p><p>[[/roll 2d6+7#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; +20 vs AC; 2d6+7 伤害. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(➶) &lt;b&gt;Longbow&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20/40; +20 vs AC; 1d12+3 伤害. &lt;/p&gt;]]</p><p>[[/roll 1d12+3#&lt;p style=\"background-color:green;color:white;\"&gt;(➶) &lt;b&gt;Longbow&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20/40; +20 vs AC; 1d12+3 伤害. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;ᗕ &lt;b&gt;Sweeping Strike&lt;/b&gt; (standard; requires greatsword, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;close blast 2; +20 vs AC; 1d12+7 伤害, and the target is knocked prone. &lt;/p&gt;]]</p><p>[[/roll 1d12+7#&lt;p style=\"background-color:green;color:white;\"&gt;ᗕ &lt;b&gt;Sweeping Strike&lt;/b&gt; (standard; requires greatsword, at-will) ✦ &lt;b&gt;Weapon&lt;/b&gt;&lt;/p&gt;&lt;p&gt;close blast 2; +20 vs AC; 1d12+7 伤害, and the target is knocked prone. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>触发动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Blood Pursuit&lt;/b&gt; (immediate reaction, when a bloodied enemy within 2 squares of the war troll moves or shifts; at-will) &lt;/p&gt;&lt;p&gt;The war troll shifts 1 square closer to the enemy.&lt;/p&gt;]]  <b>血猎 Blood Blood Pursuit</b> (immediate reaction, when a bloodied enemy within 2 squares of the war troll moves or shifts; at-will) </p><p>即时反应</p><p>触发：当战争巨魔 2 格内的一个重伤敌人移动或快步时</p><p>战争巨魔向该敌人快步 1 格。</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Threatening Reach&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The war troll can make opportunity attacks against all enemies within its reach (2 squares).&lt;/p&gt;]]  <b>威胁触及 Threatening Threatening Reach</b></p><p>战争巨魔可以对其触及范围（2 格）内的所有敌人进行借机攻击。</p></tr></td><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Troll Healing&lt;/b&gt;✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If the troll is reduced to 0 hit points or fewer by an attack that does not deal acid or fire 伤害, it rises on its next turn (as a move action) with 15 hit points.&lt;/p&gt;]]  <b>巨魔治愈 Troll Troll Healing</b>✦ <b>Healing</b></p><p>如果巨魔被一次不造成强酸或火焰伤害的攻击降至 0 生命值或更低，它会在其下一回合（以一个移动动作）以 15 生命值重新站起。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 10": {
+        "name": "再生10 Regeneration",
+        "description": "<p><b>再生10 Regeneration</b></p><p>特性</p><p>如果战争巨魔受到强酸或火焰伤害，则再生能力在其下一回合结束前无法生效。</p>"
+      },
+      "Greatsword": {
+        "name": "巨剑 Greatsword",
+        "description": "<p><b>巨剑 Greatsword</b></p><p>基本近战：武器·随意</p><p>触及 2</p><p>+20 vs AC；1d12+7 伤害，并且目标被标记直到战争巨魔的下一回合结束。</p>"
+      },
+      "Claw": {
+        "name": "利爪 Claw",
+        "description": "<p><b>利爪 Claw</b></p><p>基本近战：随意</p><p>触及 2</p><p>+20 vs AC；2d6+7 伤害。</p>"
+      },
+      "Longbow": {
+        "name": "长弓 Longbow",
+        "description": "<p><b>长弓 Longbow</b></p><p>基本远程：武器·随意</p><p>远程 20/40</p><p>+20 vs AC；1d12+3 伤害。</p>"
+      },
+      "Sweeping Strike": {
+        "name": "横扫 Sweeping Strike",
+        "description": "<p><b>横扫 Sweeping Strike</b></p><p>武器·随意</p><p>近程 扩散 2；+20 vs AC；1d12+7 伤害，并且目标被击倒。</p>"
+      },
+      "Blood Pursuit": {
+        "name": "血猎 Blood Pursuit",
+        "description": "<p><b>血猎 Blood Pursuit</b></p><p>随意</p><p>即时反应</p><p>触发：当战争巨魔 2 格内的一个重伤敌人移动或快步时</p><p>战争巨魔向该敌人快步 1 格。</p>"
+      },
+      "Threatening Reach": {
+        "name": "威胁触及 Threatening Reach",
+        "description": "<p><b>威胁触及 Threatening Reach</b></p><p>特性</p><p>战争巨魔可以对其触及范围（2 格）内的所有敌人进行借机攻击。</p>"
+      },
+      "Troll Healing": {
+        "name": "巨魔治愈 Troll Healing",
+        "description": "<p><b>巨魔治愈 Troll Healing</b></p><p>特性</p><p>如果巨魔被一次不造成强酸或火焰伤害的攻击降至 0 生命值或更低，它会在其下一回合（以一个移动动作）以 15 生命值重新站起。</p>"
+      }
+    }
+  },
+  "Disfigured Vampire": {
+    "name": "毁容吸血鬼 Disfigured Vampire",
+    "description": "<table><tr><td><b>生命值</b> 245; <b>重伤</b> 122<br><b>再生 Regeneration</b> 10 (regeneration does not function while the disfigured vampire is exposed to direct sunlight)<hr><b>抗性</b> 15 necrotic <b>Vulnerable</b> 15 radiant <b>免疫</b> disease, poison </td><td style=\"padding-left: 15px;\"><b>先攻</b> +12</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 33</td><td><b>Fort</b> 34</td><td><b>Ref</b> 30</td><td><b>Will</b> 31</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 23 (+16)<br><b>体质</b> 25 (+17)</td><td><b>敏捷</b> 15 (+12)<br><b>智力</b> 7 (+8)</td><td><b>感知</b> 13 (+11)<br><b>魅力</b> 17 (+13)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common<br><b>阵营</b> Evil</td></tr><tr><td></td><td style=\"padding-left:15px;\"><b>感官</b> 黑暗视觉<br><b>被动</b> Perception 21 | Insight 21</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Vampiric Claw&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+24 vs AC; 2d6+6 伤害, and 10 ongoing necrotic 伤害 （豁免终止）. &lt;/p&gt;]] (⚔) <b>吸血鬼之爪 Vampiric Vampiric Claw</b> (standard, at-will) ✦ <b>Necrotic</b></p><p>标准动作 [[/roll 2d6+6#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Vampiric Claw&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+24 vs AC; 2d6+6 伤害, and 10 ongoing necrotic 伤害 （豁免终止）. &lt;/p&gt;]]</p><p>攻击：+24 vs AC；命中：2d6+6伤害，并造成10点持续黯蚀伤害（豁免终止）。 [[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Blood Drain&lt;/b&gt; (standard; requires combat advantage, recharges when an adjacent 生物 becomes bloodied) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+23 vs Fortitude; 2d12+13 伤害, and the target is weakened （豁免终止）, and the disfigured vampire regains 61 hit points. &lt;/p&gt;]]</p><p>[[/roll 2d12+13#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;Blood Drain&lt;/b&gt; (standard; requires combat advantage, recharges when an adjacent 生物 becomes bloodied) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+23 vs Fortitude; 2d12+13 伤害, and the target is weakened （豁免终止）, and the disfigured vampire regains 61 hit points. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>触发动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;ᗕ &lt;b&gt;Gaze Upon My Hideous Ruin&lt;/b&gt; (immediate reaction, when first bloodied and again when reduced to 0 hit points, at-will) ✦ &lt;b&gt;Fear, Psychic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 2; +22 vs Will; 2d8+7 psychic 伤害, and the disfigured vampire pushes the target 5 squares. &lt;/p&gt;]] ᗕ <b>凝视我的可怖残躯 Gaze Upon My Hideous Gaze Upon My Hideous Ruin</b> (immediate reaction, when first bloodied and again when reduced to 0 hit points, at-will) ✦ <b>Fear, Psychic</b></p><p>直觉反应 [[/roll 2d8+7#&lt;p style=\"background-color:green;color:white;\"&gt;ᗕ &lt;b&gt;Gaze Upon My Hideous Ruin&lt;/b&gt; (immediate reaction, when first bloodied and again when reduced to 0 hit points, at-will) ✦ &lt;b&gt;Fear, Psychic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 2; +22 vs Will; 2d8+7 psychic 伤害, and the disfigured vampire pushes the target 5 squares. &lt;/p&gt;]]</p><p>近程爆发2</p><p>触发：当首次陷入重伤时，以及当生命值降至0时，随意触发</p><p>攻击：+22 vs 意志；命中：2d8+7心灵伤害，且毁容吸血鬼将目标推离5格。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 10": {
+        "name": "再生10 Regeneration",
+        "description": "<p><b>再生10 Regeneration</b></p><p>特性</p><p>当毁容吸血鬼暴露在直射阳光下时，再生无法生效。</p>"
+      },
+      "Vampiric Claw": {
+        "name": "吸血鬼之爪 Vampiric Claw",
+        "description": "<p><b>吸血鬼之爪 Vampiric Claw</b></p><p>基本攻击·随意·黯蚀</p><p>标准动作</p><p>攻击：+24 vs AC；命中：2d6+6伤害，并造成10点持续黯蚀伤害（豁免终止）。</p>"
+      },
+      "Gaze Upon My Hideous Ruin": {
+        "name": "凝视我的可怖残躯 Gaze Upon My Hideous Ruin",
+        "description": "<p><b>凝视我的可怖残躯 Gaze Upon My Hideous Ruin</b></p><p>随意·恐惧·心灵</p><p>直觉反应</p><p>近程爆发2</p><p>触发：当首次陷入重伤时，以及当生命值降至0时，随意触发</p><p>攻击：+22 vs 意志；命中：2d8+7心灵伤害，且毁容吸血鬼将目标推离5格。</p>"
+      },
+      "Blood Drain": {
+        "name": "吸血 Blood Drain",
+        "description": "<p><b>吸血 Blood Drain</b></p><p>治疗</p><p>标准动作</p><p>触发：当一个相邻生物陷入重伤时</p><p>攻击：+23 vs 强韧；命中：2d12+13伤害，且目标陷入虚弱（豁免终止），毁容吸血鬼恢复61点生命值。</p>"
+      }
+    }
+  },
+  "Count Strahd von Zarovich": {
+    "name": "斯特拉德·冯·扎罗维奇伯爵 Count Strahd von Zarovich",
+    "description": "<table><tr><td><b>生命值</b> 930; <b>重伤</b> 465<br><b>再生 Regeneration</b> 10 (regeneration doesn’t function while Strahd is exposed to direct sunlight)<hr><b>抗性</b> 15 necrotic <b>Vulnerable</b> 10 radiant <b>免疫</b> disease, poison </td><td style=\"padding-left: 15px;\"><b>先攻</b> +17 | <b>行动点</b> 2 | <b>豁免</b> +5</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 34</td><td><b>Fort</b> 32</td><td><b>Ref</b> 32</td><td><b>Will</b> 32</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6, 攀爬 4 (spider climb)</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 18 (+14)<br><b>体质</b> 18 (+14)</td><td><b>敏捷</b> 20 (+15)<br><b>智力</b> 23 (+16)</td><td><b>感知</b> 17 (+13)<br><b>魅力</b> 26 (+18)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common, Supernal<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Bluff +23, Insight +18, Intimidate +23, Stealth +20</td><td style=\"padding-left:15px;\"><b>感官</b> 盲视 10,黑暗视觉<br><b>被动</b> Perception 23 | Insight 28</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Crippling Strike&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+23 vs Fortitude; 3d10+5 necrotic 伤害, and the target is slowed until the end of Strahd’s next turn. Hit or Miss: Strahd shifts up to 2 squares. &lt;/p&gt;]] (⚔) <b>致残打击 Crippling Crippling Strike</b> (standard, at-will) ✦ <b>Necrotic</b></p><p><b>随意</b><b> ✦ </b><b>黯蚀</b> [[/roll 3d10+5#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Crippling Strike&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+23 vs Fortitude; 3d10+5 necrotic 伤害, and the target is slowed until the end of Strahd’s next turn. Hit or Miss: Strahd shifts up to 2 squares. &lt;/p&gt;]]</p><p>标准动作 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Blood Drain&lt;/b&gt; (standard; requires combat advantage against the target, at-will) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+23 vs Fortitude; 3d10+5 伤害, and the target is weakened （豁免终止）, and Strahd regains 20 hit points. &lt;/p&gt;]]</p><p>攻击：+23 vs 强韧；造成3d10+5点黯蚀伤害，并且目标在斯特拉德的下一个回合结束前陷入缓慢状态。<b>命中或失手：</b>斯特拉德快步2格。 [[/roll 3d10+5#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Blood Drain&lt;/b&gt; (standard; requires combat advantage against the target, at-will) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+23 vs Fortitude; 3d10+5 伤害, and the target is weakened （豁免终止）, and Strahd regains 20 hit points. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;✻ &lt;b&gt;Strahd\"s Choking Fog&lt;/b&gt; (standard; sustain minor or move, encounter) ✦ &lt;b&gt;Poison, Zone&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Area burst 5 within 10; the burst creates a zone of poisonous vapors that lasts until the end of Strahd’s next turn. A 生物 that enters the zone or that starts its turn in the zone takes 1d10 + 5 poison 伤害, and ongoing 5 poison 伤害 （豁免终止）. Sustain Minor: The zone persists. Sustain Move: The zone persists, and Strahd can move it up to 5 squares.&lt;/p&gt;]]</p><p>[[/roll 1d10 + 5#&lt;p style=\"background-color:darkred;color:white;\"&gt;✻ &lt;b&gt;Strahd\"s Choking Fog&lt;/b&gt; (standard; sustain minor or move, encounter) ✦ &lt;b&gt;Poison, Zone&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Area burst 5 within 10; the burst creates a zone of poisonous vapors that lasts until the end of Strahd’s next turn. A 生物 that enters the zone or that starts its turn in the zone takes 1d10 + 5 poison 伤害, and ongoing 5 poison 伤害 （豁免终止）. Sustain Minor: The zone persists. Sustain Move: The zone persists, and Strahd can move it up to 5 squares.&lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Mist Form&lt;/b&gt; (standard; sustain minor; encounter) ✦ &lt;b&gt;Polymorph&lt;/b&gt;&lt;/p&gt;&lt;p&gt;All conditions affecting Strahd end, and he becomes insubstantial and gains 飞行 (hover) 12 until the end of his next turn. Strahd cannot attack while in this form.&lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Second Wind&lt;/b&gt; (standard; encounter) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Strahd spends a healing surge and regains 232 hit points. Strahd gains a +2 bonus to all defenses until the start of his next turn.&lt;/p&gt;]]</p></tr></td><tr><td><h4><b>次要动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Dominating Gaze&lt;/b&gt; (minor, at-will) ✦ &lt;b&gt;Charm, Gaze&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 5; +23 vs Will; the target is dominated and takes a -2 penalty to saving throws against being dominated (save ends both). Aftereffect: The target is dazed and takes ongoing 10 psychic 伤害 (save ends both). Strahd can have only one 生物 dominated at a time. &lt;/p&gt;]] ➶ <b>支配凝视 Dominating Dominating Gaze</b> (minor, at-will) ✦ <b>Charm, Gaze</b></p><p><b>次要动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Animal Form&lt;/b&gt; (minor; at-will) ✦ &lt;b&gt;Polymorph&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Strahd transforms into a swarm of bats or a black wolf. He cannot use crippling strike or choking fog, though he gains new powers and statistics in addition to those he regularly has. Strahd can revert to his normal form as a minor action.&lt;/p&gt;]]</p><p>远程5</p><p>攻击：+23 vs 意志；目标被支配，并在对抗被支配的豁免检定上承受-2减值（两者均豁免终止）。<b>后效：</b>目标陷入晕眩状态并受到持续10点心灵伤害（两者均豁免终止）。斯特拉德一次只能支配一个生物。</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Scent of Blood&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Strahd gains combat advantage against living, bloodied foes.&lt;/p&gt;]]  <b>血腥气息 Scent of Scent of Blood</b></p><p>斯特拉德对活着的、重伤的敌人获得战斗优势。</p></tr></td><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Indestructible&lt;/b&gt; ( when reduced to 0 hit points) &lt;/p&gt;&lt;p&gt;Strahd’s mist form power recharges, and he uses it immediately. Strahd does not die, but he must reach his coffin within 2 hours or be destroyed.&lt;/p&gt;]]  <b>不可摧毁 Indestructible</b> ( when reduced to 0 hit points) </p><p>斯特拉德的雾化形态威能立即充能，并立即使用它。斯特拉德不会死亡，但他必须在2小时内到达他的棺材，否则将被摧毁。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 10": {
+        "name": "再生10 Regeneration",
+        "description": "<p><b>再生10 Regeneration</b></p><p>特性</p><p>当斯特拉德暴露在直射阳光下时，再生无法生效。</p>"
+      },
+      "Crippling Strike": {
+        "name": "致残打击 Crippling Strike",
+        "description": "<p><b>致残打击 Crippling Strike</b></p><p>基本攻击</p><p><b>随意</b><b> ✦ </b><b>黯蚀</b></p><p>标准动作</p><p>攻击：+23 vs 强韧；造成3d10+5点黯蚀伤害，并且目标在斯特拉德的下一个回合结束前陷入缓慢状态。<b>命中或失手：</b>斯特拉德快步2格。</p>"
+      },
+      "Blood Drain": {
+        "name": "吸血 Blood Drain",
+        "description": "<p><b>吸血 Blood Drain</b></p><p><b>随意</b><b> ✦ </b><b>治疗</b></p><p><b>标准动作</b></p><p>攻击：+23 vs 强韧；造成3d10+5点伤害，并且目标陷入虚弱状态（豁免终止），斯特拉德恢复20点生命值。</p>"
+      },
+      "Dominating Gaze": {
+        "name": "支配凝视 Dominating Gaze",
+        "description": "<p><b>支配凝视 Dominating Gaze</b></p><p><b>随意</b><b> ✦ </b><b>魅惑，凝视</b></p><p><b>次要动作</b></p><p>远程5</p><p>攻击：+23 vs 意志；目标被支配，并在对抗被支配的豁免检定上承受-2减值（两者均豁免终止）。<b>后效：</b>目标陷入晕眩状态并受到持续10点心灵伤害（两者均豁免终止）。斯特拉德一次只能支配一个生物。</p>"
+      },
+      "Strahd's Choking Fog": {
+        "name": "斯特拉德的窒息之雾 Strahd's Choking Fog",
+        "description": "<p><b>斯特拉德的窒息之雾 Strahd's Choking Fog</b></p><p><b>遭遇</b><b> ✦ </b><b>毒素，区域</b></p><p><b>标准动作</b></p><p><b>范围</b> 10格内爆发5</p><p>维持次要或移动</p><p>爆发区域创造一片毒雾区域，持续至斯特拉德的下一个回合结束。进入区域或在区域内开始其回合的生物受到1d10+5点毒素伤害，并受到持续5点毒素伤害（豁免终止）。<b>维持次要：</b>区域持续存在。维持移动：区域持续存在，并且斯特拉德可以将其移动最多5格。</p>"
+      },
+      "Animal Form": {
+        "name": "动物形态 Animal Form",
+        "description": "<p><b>动物形态 Animal Form</b></p><p><b>随意</b><b> ✦ </b><b>变形</b></p><p><b>次要动作</b></p><p>斯特拉德变形为一群蝙蝠或一只黑狼。他无法使用致残打击或窒息之雾，但除了常规属性外，他还获得新的威能和属性。斯特拉德可以以一个次要动作恢复人形。</p>"
+      },
+      "Mist Form": {
+        "name": "雾化形态 Mist Form",
+        "description": "<p><b>雾化形态 Mist Form</b></p><p><b>遭遇</b><b> ✦ </b><b>变形</b></p><p><b>标准动作</b></p><p>维持次要；<b>遭遇</b></p><p>影响斯特拉德的所有状态结束，他变为虚体并获得飞行（悬停）12，持续至他的下一个回合结束。在此形态下斯特拉德无法攻击。</p>"
+      },
+      "Scent of Blood": {
+        "name": "血腥气息 Scent of Blood",
+        "description": "<p><b>血腥气息 Scent of Blood</b></p><p>特性</p><p>斯特拉德对活着的、重伤的敌人获得战斗优势。</p>"
+      },
+      "Second Wind": {
+        "name": "第二风 Second Wind",
+        "description": "<p><b>第二风 Second Wind</b></p><p><b>遭遇</b><b> ✦ </b><b>治疗</b></p><p><b>标准动作</b></p><p>斯特拉德消耗一个医疗回复并恢复232点生命值。斯特拉德在所有防御上获得+2加值，直至他的下一个回合开始。</p>"
+      },
+      "Indestructible": {
+        "name": "不可摧毁 Indestructible",
+        "description": "<p><b>不可摧毁 Indestructible</b></p><p><b>触发：</b>当生命值降至0时</p><p>斯特拉德的雾化形态威能立即充能，并立即使用它。斯特拉德不会死亡，但他必须在2小时内到达他的棺材，否则将被摧毁。</p>"
+      }
+    }
+  },
+  "Cave Troll Mangler": {
+    "name": "洞穴巨魔撕裂者 Cave Troll Mangler",
+    "description": "<table><tr><td><b>生命值</b> 170; <b>重伤</b> 85<br><b>再生 Regeneration</b> 10<hr><b>Vulnerable</b> acid or fire (if the cave troll mangler takes acid or fire 伤害, its regeneration does not function until the end of its next turn) </td><td style=\"padding-left: 15px;\"><b>先攻</b> +10</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 26</td><td><b>Fort</b> 28</td><td><b>Ref</b> 24</td><td><b>Will</b> 23</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 8</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 24 (+14)<br><b>体质</b> 20 (+12)</td><td><b>敏捷</b> 16 (+10)<br><b>智力</b> 5 (+4)</td><td><b>感知</b> 14 (+9)<br><b>魅力</b> 10 (+7)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Giant<br><b>阵营</b> Chaotic Evil</td></tr><tr><td></td><td style=\"padding-left:15px;\"><b>感官</b> <br><b>被动</b> Perception 19 | Insight 19</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; +17 vs AC; 2d8+4 伤害, and the target is grabbed. A cave troll mangler can grab up to two targets at once. &lt;/p&gt;]] (⚔) <b>利爪 Claw</b> (standard, at-will) </p><p>标准动作 [[/roll 2d8+4#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; +17 vs AC; 2d8+4 伤害, and the target is grabbed. A cave troll mangler can grab up to two targets at once. &lt;/p&gt;]]</p><p><b>触及</b> 2 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Bash&lt;/b&gt; (standard; must be grabbing a 生物, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; targets a 生物 not grabbed by the cave troll mangler; +17 vs AC; 3d8+6 伤害, and the grabbed 生物 takes half this 伤害 and is dazed （豁免终止）. When grabbing a 生物 wearing heavy armor, the cave troll mangler deals +5 伤害 with this attack, but the grabbed 生物 is not dazed. &lt;/p&gt;]]</p><p>+17 vs AC；2d8+4伤害，且目标被擒抱。洞穴巨魔撕裂者一次最多可擒抱两个目标。 [[/roll 3d8+6#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Bash&lt;/b&gt; (standard; must be grabbing a 生物, at-will) &lt;/p&gt;&lt;p&gt;Reach 2; targets a 生物 not grabbed by the cave troll mangler; +17 vs AC; 3d8+6 伤害, and the grabbed 生物 takes half this 伤害 and is dazed （豁免终止）. When grabbing a 生物 wearing heavy armor, the cave troll mangler deals +5 伤害 with this attack, but the grabbed 生物 is not dazed. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;ᗕ &lt;b&gt;Smash and Thrash&lt;/b&gt; (standard; must be grabbing a 生物, recharge ⚄⚅) &lt;/p&gt;&lt;p&gt;The cave troll mangler makes a bash attack against each enemy within 2 squares.&lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Hurl&lt;/b&gt; (standard; must be grabbing a 生物, at-will) &lt;/p&gt;&lt;p&gt;Ranged 10; targets a 生物 not grabbed by the cave troll mangler; +17 vs AC; 3d6+6 伤害 and the target is knocked prone, and the grabbed 生物 takes half this 伤害 and is dazed （豁免终止）. When grabbing a 生物 wearing heavy armor, the cave troll mangler deals +5 伤害 with this attack, but the grabbed 生物 is not dazed. &lt;/p&gt;]]</p><p>[[/roll 3d6+6#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Hurl&lt;/b&gt; (standard; must be grabbing a 生物, at-will) &lt;/p&gt;&lt;p&gt;Ranged 10; targets a 生物 not grabbed by the cave troll mangler; +17 vs AC; 3d6+6 伤害 and the target is knocked prone, and the grabbed 生物 takes half this 伤害 and is dazed （豁免终止）. When grabbing a 生物 wearing heavy armor, the cave troll mangler deals +5 伤害 with this attack, but the grabbed 生物 is not dazed. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Troll Healing&lt;/b&gt;✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If the cave troll mangler is reduced to 0 hit points by an attack that does not deal acid or fire 伤害, it falls prone and remains at 0 hit points until the start of its next turn, when it regains 10 hit points. If an attack deals acid or fire 伤害 to the cave troll mangler while it is at 0 hit points, it is destroyed&lt;/p&gt;]]  <b>巨魔治愈 Troll Troll Healing</b>✦ <b>Healing</b></p><p>若洞穴巨魔撕裂者被不造成强酸或火焰伤害的攻击降至0生命值，它倒地并保持0生命值直到其下一回合开始，届时它恢复10生命值。若在0生命值时受到强酸或火焰伤害，则被摧毁。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 10": {
+        "name": "再生10 Regeneration",
+        "description": "<p><b>再生10 Regeneration</b></p><p>特性</p><p>若洞穴巨魔撕裂者受到强酸或火焰伤害，其再生能力直到其下一回合结束前无法生效。</p>"
+      },
+      "Claw": {
+        "name": "利爪 Claw",
+        "description": "<p><b>利爪 Claw</b></p><p>基本攻击·随意</p><p>标准动作</p><p><b>触及</b> 2</p><p>+17 vs AC；2d8+4伤害，且目标被擒抱。洞穴巨魔撕裂者一次最多可擒抱两个目标。</p>"
+      },
+      "Bash": {
+        "name": "猛击 Bash",
+        "description": "<p><b>猛击 Bash</b></p><p>随意</p><p>标准动作</p><p><b>触及</b> 2</p><p>目标为未被洞穴巨魔撕裂者擒抱的生物；+17 vs AC；3d8+6伤害，且被擒抱的生物受到此伤害的一半并陷入晕眩（豁免终止）。若擒抱着穿着重甲的生物，此攻击额外造成5伤害，但被擒抱的生物不会晕眩。</p>"
+      },
+      "Smash and Thrash": {
+        "name": "砸打 Smash and Thrash",
+        "description": "<p><b>砸打 Smash and Thrash</b></p><p>充能 5-6</p><p>标准动作</p><p>洞穴巨魔撕裂者对2格内的每个敌人进行一次猛击攻击。</p>"
+      },
+      "Hurl": {
+        "name": "投掷 Hurl",
+        "description": "<p><b>投掷 Hurl</b></p><p>随意</p><p>标准动作</p><p><b>远程</b> 10</p><p>目标为未被洞穴巨魔撕裂者擒抱的生物；+17 vs AC；3d6+6伤害，且目标倒地，被擒抱的生物受到此伤害的一半并陷入晕眩（豁免终止）。若擒抱着穿着重甲的生物，此攻击额外造成5伤害，但被擒抱的生物不会晕眩。</p>"
+      },
+      "Troll Healing": {
+        "name": "巨魔治愈 Troll Healing",
+        "description": "<p><b>巨魔治愈 Troll Healing</b></p><p>医疗</p><p>若洞穴巨魔撕裂者被不造成强酸或火焰伤害的攻击降至0生命值，它倒地并保持0生命值直到其下一回合开始，届时它恢复10生命值。若在0生命值时受到强酸或火焰伤害，则被摧毁。</p>"
+      }
+    }
+  },
+  "Bloodwind": {
+    "name": "血风 Bloodwind",
+    "description": "<table><tr><td><b>生命值</b> 800; <b>重伤</b> 400<br><b>再生 Regeneration</b> 20 (regeneration does not function while the bloodwind is exposed to sunlight)<hr><b>抗性</b> 30 necrotic <b>Vulnerable</b> 15 radiant <b>免疫</b> disease, poison </td><td style=\"padding-left: 15px;\"><b>先攻</b> +20 | <b>行动点</b> 2 | <b>豁免</b> +5</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 41</td><td><b>Fort</b> 39</td><td><b>Ref</b> 38</td><td><b>Will</b> 38</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 10, 飞行 12</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 29 (+20)<br><b>体质</b> 24 (+18)</td><td><b>敏捷</b> 21 (+16)<br><b>智力</b> 21 (+16)</td><td><b>感知</b> 22 (+17)<br><b>魅力</b> 18 (+15)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common, Draconic<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Nature +22, Stealth +21</td><td style=\"padding-left:15px;\"><b>感官</b> 黑暗视觉<br><b>被动</b> Perception 27 | Insight 27</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 3; +28 vs AC; 3d10+9 伤害. &lt;/p&gt;]] (⚔) <b>啃咬 Bite</b> (standard, at-will) </p><p><b>触及</b> 3 [[/roll 3d10+9#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Bite&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 3; +28 vs AC; 3d10+9 伤害. &lt;/p&gt;]]</p><p>+28 vs AC；3d10+9伤害。 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 3; +28 vs AC; 3d8+9 伤害. &lt;/p&gt;]]</p><p>[[/roll 3d8+9#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Claw&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;Reach 3; +28 vs AC; 3d8+9 伤害. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;⚔ &lt;b&gt;Hunger Frenzy&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;The bloodwind makes a bite attack and two claw attacks. The claw attacks must target two different enemies.&lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Breath Weapon&lt;/b&gt; (standard, encounter) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+26 vs Fortitude; 4d8+7 necrotic 伤害, and the target is weakened （豁免终止）. Miss: Half 伤害, and the target is not weakened. This attack does not provoke opportunity attacks. &lt;/p&gt;]]</p><p>[[/roll 4d8+7#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Breath Weapon&lt;/b&gt; (standard, encounter) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;+26 vs Fortitude; 4d8+7 necrotic 伤害, and the target is weakened （豁免终止）. Miss: Half 伤害, and the target is not weakened. This attack does not provoke opportunity attacks. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>自由动作</b></h4></td></tr><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;⚔ &lt;b&gt;重伤 Breath&lt;/b&gt; (free, when first bloodied, encounter) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The bloodwind’s breath weapon recharges, and the bloodwind uses it immediately.&lt;/p&gt;]] ⚔ <b>重伤 Breath</b> (free, when first bloodied, encounter) ✦ <b>Necrotic</b></p><p>The bloodwind’s breath weapon recharges, and the bloodwind uses it immediately.</p></tr></td><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Breath Leap&lt;/b&gt; (free, when the bloodwind uses its breath weapon; recharges when first bloodied) ✦ &lt;b&gt;Teleportation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The bloodwind can teleport to any unoccupied space adjacent to one of the targets of its breath weapon, whether or not the attack hits.&lt;/p&gt;]]  <b>吐息跳跃 Breath Breath Leap</b> (free, when the bloodwind uses its breath weapon; recharges when first bloodied) ✦ <b>Teleportation</b></p><p><b>自由动作</b></p><p><b>触发：</b> 当血风使用其吐息武器时</p><p>血风可以传送到其吐息武器的一个目标相邻的任意未被占据空间，无论攻击是否命中。</p></tr></td><tr><td><h4><b>触发动作</b></h4></td></tr><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;➶ &lt;b&gt;Repelling Gaze&lt;/b&gt; (immediate reaction, when an enemy attacks the bloodwind, recharges when first bloodied) ✦ &lt;b&gt;Charm&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The bloodwind fixes the target with its gaze; ranged 10; targets the triggering enemy; +26 vs Will; the target is dazed and is pushed 2 squares at the start of its turn (save ends both). This attack does not provoke opportunity attacks. &lt;/p&gt;]] ➶ <b>斥退凝视 Repelling Repelling Gaze</b> (immediate reaction, when an enemy attacks the bloodwind, recharges when first bloodied) ✦ <b>Charm</b></p><p><b>即时反应</b></p><p><b>触发：</b> 当一名敌人攻击血风时；首次陷入重伤时充能</p><p>血风以凝视锁定目标；远程10；目标为触发攻击的敌人；+26 vs 意志；目标陷入晕眩，并在其回合开始时被推离2格（豁免终止两者）。此攻击不会引发借机攻击。</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Combat Advantage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If the bloodwind’s bite attack hits a target it has combat advantage against, the target also takes ongoing 20 伤害 and is weakened (save ends both).&lt;/p&gt;]]  <b>战斗优势 Combat Combat Advantage</b></p><p>如果血风的啃咬攻击命中一个它具有战斗优势的目标，目标还会受到20点持续伤害并陷入虚弱（豁免终止两者）。 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Scent of Blood&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The bloodwind automatically gains combat advantage against bloodied living creatures.&lt;/p&gt;]]</p></tr></td><tr><td><h4><b>移动动作</b></h4></td></tr><tr><td><p style=\"background-color:darkred;color:white;\">[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Shadowy Discorporation&lt;/b&gt; (move; recharge ⚃⚄⚅) ✦ &lt;b&gt;Illusion&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The bloodwind teleports 10 squares and becomes invisible until the end of its next turn.&lt;/p&gt;]]  <b>暗影解体 Shadowy Shadowy Discorporation</b> (move; recharge ⚃⚄⚅) ✦ <b>Illusion</b></p><p><b>移动动作</b></p><p>血风传送10格，并隐形直到其下一回合结束。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 20": {
+        "name": "再生20 Regeneration",
+        "description": "<p><b>再生20 Regeneration</b></p><p>特性</p><p>血风暴露在阳光下时再生无效。</p>"
+      },
+      "Bite": {
+        "name": "啃咬 Bite",
+        "description": "<p><b>啃咬 Bite</b></p><p>基本近战：啃咬·随意</p><p><b>触及</b> 3</p><p>+28 vs AC；3d10+9伤害。</p>"
+      },
+      "Claw": {
+        "name": "利爪 Claw",
+        "description": "<p><b>利爪 Claw</b></p><p>基本近战：利爪·随意</p><p><b>触及</b> 3</p><p>+28 vs AC；3d8+9伤害。</p>"
+      },
+      "Hunger Frenzy": {
+        "name": "饥饿狂乱 Hunger Frenzy",
+        "description": "<p><b>饥饿狂乱 Hunger Frenzy</b></p><p>随意</p><p><b>标准动作</b></p><p>血风进行一次啃咬攻击和两次利爪攻击。利爪攻击必须针对两个不同的敌人。</p>"
+      },
+      "Breath Weapon": {
+        "name": "吐息武器 Breath Weapon",
+        "description": "<p><b>吐息武器 Breath Weapon</b></p><p>遭遇 ✦ 黯蚀</p><p><b>标准动作</b></p><p>+26 vs 强韧；4d8+7黯蚀伤害，且目标陷入虚弱（豁免终止）。<b>失手：</b> 一半伤害，且目标不会虚弱。此攻击不会引发借机攻击。</p>"
+      },
+      "Bloodied Breath": {
+        "name": "浴血吐息 Bloodied Breath",
+        "description": "<p><b>浴血吐息 Bloodied Breath</b></p><p>遭遇 ✦ 黯蚀</p><p><b>自由动作</b></p><p><b>触发：</b> 当首次陷入重伤时</p><p>血风的吐息武器立即充能，并立即使用它。</p>"
+      },
+      "Repelling Gaze": {
+        "name": "斥退凝视 Repelling Gaze",
+        "description": "<p><b>斥退凝视 Repelling Gaze</b></p><p>魅惑</p><p><b>即时反应</b></p><p><b>触发：</b> 当一名敌人攻击血风时；首次陷入重伤时充能</p><p>血风以凝视锁定目标；远程10；目标为触发攻击的敌人；+26 vs 意志；目标陷入晕眩，并在其回合开始时被推离2格（豁免终止两者）。此攻击不会引发借机攻击。</p>"
+      },
+      "Breath Leap": {
+        "name": "吐息跳跃 Breath Leap",
+        "description": "<p><b>吐息跳跃 Breath Leap</b></p><p>充能：首次陷入重伤时充能 ✦ 传送</p><p><b>自由动作</b></p><p><b>触发：</b> 当血风使用其吐息武器时</p><p>血风可以传送到其吐息武器的一个目标相邻的任意未被占据空间，无论攻击是否命中。</p>"
+      },
+      "Combat Advantage": {
+        "name": "战斗优势 Combat Advantage",
+        "description": "<p><b>战斗优势 Combat Advantage</b></p><p>特性</p><p>如果血风的啃咬攻击命中一个它具有战斗优势的目标，目标还会受到20点持续伤害并陷入虚弱（豁免终止两者）。</p>"
+      },
+      "Shadowy Discorporation": {
+        "name": "暗影解体 Shadowy Discorporation",
+        "description": "<p><b>暗影解体 Shadowy Discorporation</b></p><p>充能 4-6 ✦ 幻术</p><p><b>移动动作</b></p><p>血风传送10格，并隐形直到其下一回合结束。</p>"
+      },
+      "Scent of Blood": {
+        "name": "血腥气味 Scent of Blood",
+        "description": "<p><b>血腥气味 Scent of Blood</b></p><p>特性</p><p>血风自动对重伤的活体生物获得战斗优势。</p>"
+      }
+    }
+  }
+}

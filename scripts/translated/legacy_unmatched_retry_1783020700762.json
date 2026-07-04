@@ -1,0 +1,24 @@
+{
+  "Sodden Corruption Corpse": {
+    "name": "浸腐尸 SoddenCorruptionCorpse",
+    "description": "<table><tr><td><b>生命值</b> 48; <b>重伤</b> 24 ; see also death burst<br><b>Regeneration</b> 5 (if the sodden corruption corpse takes radiant 伤害, regeneration doesn’t function on its next turn)<hr><b>抗性</b> 10 necrotic <b>Vulnerable</b> 5 radiant <b>免疫</b> disease, poison </td><td style=\"padding-left: 15px;\"><b>先攻</b> +3</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 17</td><td><b>Fort</b> 17</td><td><b>Ref</b> 15</td><td><b>Will</b> 14</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 4</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 16 (+5)<br><b>体质</b> 18 (+6)</td><td><b>敏捷</b> 13 (+3)<br><b>智力</b> 4 (null)</td><td><b>感知</b> 12 (+3)<br><b>魅力</b> 3 (null)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> -<br><b>阵营</b> Chaotic Evil</td></tr><tr><td></td><td style=\"padding-left:15px;\"><b>感官</b> 黑暗视觉<br><b>被动</b> Perception 13 | Insight 13</td></td></tr></table><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Slam&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;+9 vs AC; 1d6 + 4 伤害. &lt;/p&gt;]] (⚔) <b>猛击 Slam</b> (standard, at-will) </p><p><b>随意</b> [[/roll 1d6 + 4#&lt;p style=\"background-color:green;color:white;\"&gt;(⚔) &lt;b&gt;Slam&lt;/b&gt; (standard, at-will) &lt;/p&gt;&lt;p&gt;+9 vs AC; 1d6 + 4 伤害. &lt;/p&gt;]]</p><p><b>标准动作</b> [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Corruption of Flesh&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 10; +9 vs Reflex; 2d6 + 3 necrotic 伤害, and the target is weakened until the end of the sodden corruption corpse’s next turn. &lt;/p&gt;]]</p><p>+9 vs AC；1d6 + 4伤害。 [[/roll 2d6 + 3#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Corruption of Flesh&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 10; +9 vs Reflex; 2d6 + 3 necrotic 伤害, and the target is weakened until the end of the sodden corruption corpse’s next turn. &lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;ᗕ &lt;b&gt;Death Burst&lt;/b&gt; ( when the sodden corruption corpse drops to 0 hit points, ) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 2; +7 vs Fortitude; 2d6 + 5 Necrotic 伤害. &lt;/p&gt;]] ᗕ <b>死亡爆发 Death Death Burst</b> ( when the sodden corruption corpse drops to 0 hit points, ) ✦ <b>Necrotic</b></p><p><b>近程</b>爆发 2 [[/roll 2d6 + 5#&lt;p style=\"background-color:green;color:white;\"&gt;ᗕ &lt;b&gt;Death Burst&lt;/b&gt; ( when the sodden corruption corpse drops to 0 hit points, ) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Close burst 2; +7 vs Fortitude; 2d6 + 5 Necrotic 伤害. &lt;/p&gt;]]</p><p><b>触发：</b>当浸腐尸生命值降至0时</p><p>+7 vs Fortitude；2d6 + 5黯蚀伤害。</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 5": {
+        "name": "再生5 Regeneration 5",
+        "description": "<p><b>再生5 Regeneration 5</b></p><p>特性</p><p>如果浸腐尸受到光耀伤害，则其下一回合再生不生效。</p>"
+      },
+      "Slam": {
+        "name": "猛击 Slam",
+        "description": "<p><b>猛击 Slam</b></p><p>基本攻击</p><p><b>随意</b></p><p><b>标准动作</b></p><p>+9 vs AC；1d6 + 4伤害。</p>"
+      },
+      "Corruption of Flesh": {
+        "name": "血肉腐化 Corruption of Flesh",
+        "description": "<p><b>血肉腐化 Corruption of Flesh</b></p><p><b>随意</b><b> ✦ </b><b>黯蚀</b></p><p><b>标准动作</b></p><p><b>远程</b> 10</p><p>+9 vs Reflex；2d6 + 3黯蚀伤害，且目标在浸腐尸的下一回合结束前陷入虚弱。</p>"
+      },
+      "Death Burst": {
+        "name": "死亡爆发 Death Burst",
+        "description": "<p><b>死亡爆发 Death Burst</b></p><p>黯蚀</p><p><b>近程</b>爆发 2</p><p><b>触发：</b>当浸腐尸生命值降至0时</p><p>+7 vs Fortitude；2d6 + 5黯蚀伤害。</p>"
+      }
+    }
+  }
+}

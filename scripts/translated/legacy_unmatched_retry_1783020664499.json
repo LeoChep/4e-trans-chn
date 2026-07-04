@@ -1,0 +1,36 @@
+{
+  "Lich": {
+    "name": "巫妖 Lich",
+    "description": "<table><tr><td><b>生命值</b> 362; <b>重伤</b> 181<br><b>Regeneration</b> 10 (if the lich takes radiant 伤害, regeneration doesn’t function on its next turn)<hr><b>抗性</b> 10 necrotic <b>免疫</b> disease, poison </td><td style=\"padding-left: 15px;\"><b>先攻</b> +14 | <b>行动点</b> 1 | <b>豁免</b> +2</td></tr><tr><td style=\"text-align: center; background-color:lightgrey; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td><b>AC</b> 38</td><td><b>Fort</b> 33</td><td><b>Ref</b> 38</td><td><b>Will</b> 38</td></tr></table></td><td style=\"padding-left:15px;\"><b>速度</b> 6</td></tr><tr><td style=\"text-align: center; padding:0px 5px 0px 5px;\"><table><tr style=\"border 0px; padding:0px 5px 0px 5px;\"><td>属性</td><td><b>力量</b> 12 (+13)<br><b>体质</b> 18 (+16)</td><td><b>敏捷</b> 15 (+14)<br><b>智力</b> 25 (+19)</td><td><b>感知</b> 15 (+14)<br><b>魅力</b> 21 (+17)</td></tr></table><td style=\"padding-left:15px;\"><b>语言</b> Common, Elven<br><b>阵营</b> Evil</td></tr><tr><td><b>技能</b> Arcana +24, History +24, Insight +19</td><td style=\"padding-left:15px;\"><b>感官</b> 黑暗视觉<br><b>被动</b> Perception 24 | Insight 29</td></td></tr></table><p>[[/roll 0#&lt;b&gt;Necrotic Aura&lt;/b&gt; (Necrotic) aura 5; any living 生物 that enters or starts its turn in the aura takes 5 necrotic 伤害.]] <b>黯蚀灵气 Necrotic Necrotic Aura</b> (Necrotic) aura 5; any living 生物 that enters or starts its turn in the aura takes 5 necrotic 伤害.</p><hr><table><tr><td><h4><b>标准动作</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;(➶) &lt;b&gt;Shadow Ray&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20; +28 vs Reflex; 3d8+7 necrotic 伤害. &lt;/p&gt;]] (➶) <b>暗影射线 Shadow Shadow Ray</b> (standard, at-will) ✦ <b>Necrotic</b></p><p>标准动作 [[/roll 3d8+7#&lt;p style=\"background-color:green;color:white;\"&gt;(➶) &lt;b&gt;Shadow Ray&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20; +28 vs Reflex; 3d8+7 necrotic 伤害. &lt;/p&gt;]]</p><p>远程 20 [[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Necrotic Orb&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20; +28 vs Fortitude; 3d8+7 necrotic 伤害, and the target is stunned until the end of the lich’s next turn. &lt;/p&gt;]]</p><p>+28 vs 反射；3d8+7黯蚀伤害。 [[/roll 3d8+7#&lt;p style=\"background-color:green;color:white;\"&gt;➶ &lt;b&gt;Necrotic Orb&lt;/b&gt; (standard, at-will) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ranged 20; +28 vs Fortitude; 3d8+7 necrotic 伤害, and the target is stunned until the end of the lich’s next turn. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt;✻ &lt;b&gt;Entropic Pulse &lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Area burst 2 within 20; +28 vs Reflex; 6d6+7 necrotic 伤害. &lt;/p&gt;]]</p><p>[[/roll 6d6+7#&lt;p style=\"background-color:darkred;color:white;\"&gt;✻ &lt;b&gt;Entropic Pulse &lt;/b&gt; (standard, recharge ⚄⚅) ✦ &lt;b&gt;Necrotic&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Area burst 2 within 20; +28 vs Reflex; 6d6+7 necrotic 伤害. &lt;/p&gt;]]</p><p>[[/roll 0#&lt;p style=\"background-color:darkred;color:white;\"&gt; &lt;b&gt;Second Wind &lt;/b&gt; (standard; encounter) ✦ &lt;b&gt;Healing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The lich spends a healing surge and regains 90 hit points. The lich gains a +2 bonus to all defenses until the start of its next turn.&lt;/p&gt;]]</p></tr></td><tr><td><h4><b>-</b></h4></td></tr><tr><td><p style=\"background-color:green;color:white;\">[[/roll 0#&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Indestructible&lt;/b&gt;&lt;/p&gt;&lt;p&gt;When a lich is reduced to 0 hit points, its body and possessions crumble into dust, but it is not destroyed. It reappears (along with its possessions) in 1d10 days within 1 square of its phylactery, unless the phylactery is also found and destroyed.&lt;/p&gt;]]  <b>不可摧毁 Indestructible</b></p><p>当巫妖生命值降至0时，其身体和物品化为尘土，但并未被摧毁。除非其命匣也被找到并摧毁，否则巫妖（连同其物品）会在1d10天后出现在其命匣1格范围内。 [[/roll 1d10 #&lt;p style=\"background-color:green;color:white;\"&gt; &lt;b&gt;Indestructible&lt;/b&gt;&lt;/p&gt;&lt;p&gt;When a lich is reduced to 0 hit points, its body and possessions crumble into dust, but it is not destroyed. It reappears (along with its possessions) in 1d10 days within 1 square of its phylactery, unless the phylactery is also found and destroyed.&lt;/p&gt;]]</p></tr></td></table><p><i>（AI 翻译，未经人工校对）</i></p>",
+    "items": {
+      "Regeneration 10": {
+        "name": "再生 10 Regeneration 10",
+        "description": "<p><b>再生 10 Regeneration 10</b></p><p>特性</p><p>如果巫妖受到光耀伤害，则其下一回合再生不生效。</p>"
+      },
+      "Necrotic Aura": {
+        "name": "黯蚀灵气 Necrotic Aura",
+        "description": "<p><b>黯蚀灵气 Necrotic Aura</b></p><p>灵气：群体效应·灵气 5</p><p>任何进入灵气或在灵气内开始其回合的活物受到5点黯蚀伤害。</p>"
+      },
+      "Shadow Ray": {
+        "name": "暗影射线 Shadow Ray",
+        "description": "<p><b>暗影射线 Shadow Ray</b></p><p>基本攻击·随意 ✦ 黯蚀</p><p>标准动作</p><p>远程 20</p><p>+28 vs 反射；3d8+7黯蚀伤害。</p>"
+      },
+      "Necrotic Orb": {
+        "name": "黯蚀球 Necrotic Orb",
+        "description": "<p><b>黯蚀球 Necrotic Orb</b></p><p>随意 ✦ 黯蚀</p><p>标准动作</p><p>远程 20</p><p>+28 vs 强韧；3d8+7黯蚀伤害，且目标晕眩直到巫妖下一回合结束。</p>"
+      },
+      "Entropic Pulse": {
+        "name": "熵能脉冲 Entropic Pulse",
+        "description": "<p><b>熵能脉冲 Entropic Pulse</b></p><p>充能 5-6 ✦ 黯蚀</p><p>标准动作</p><p>范围 爆发2 内20</p><p>+28 vs 反射；6d6+7黯蚀伤害。</p>"
+      },
+      "Indestructible": {
+        "name": "不可摧毁 Indestructible",
+        "description": "<p><b>不可摧毁 Indestructible</b></p><p>特性</p><p>当巫妖生命值降至0时，其身体和物品化为尘土，但并未被摧毁。除非其命匣也被找到并摧毁，否则巫妖（连同其物品）会在1d10天后出现在其命匣1格范围内。</p>"
+      },
+      "Second Wind": {
+        "name": "第二风 Second Wind",
+        "description": "<p><b>第二风 Second Wind</b></p><p>遭遇 ✦ 医疗</p><p>标准动作</p><p>巫妖花费一个医疗回复力并恢复90点生命值。巫妖在所有防御上获得+2加值，直到其下一回合开始。</p>"
+      }
+    }
+  }
+}
